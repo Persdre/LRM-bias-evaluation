@@ -1,0 +1,1985 @@
+[
+  {
+    "question_id": 11257,
+    "question": " Use the following key to translate the given formula of PL to natural, English sentences.\nA: Marina reads a Percy Jackson book.\nB: Izzy plays Minecraft.\nC: Emily stops working.\nD: Russell makes dinner.\nE: Ashleigh stops by.\n(~B \u2022 E) \u2283 D",
+    "options": [
+      "If it's not the case that both Izzy plays Minecraft and Ashleigh stops by then Russell makes dinner.",
+      "If it's both not the case that Izzy plays Minecraft and Ashleigh stops by then Russell makes dinner.",
+      "Izzy playing Minecraft and Ashleigh stopping by entails that Russell makes dinner.",
+      "Russell's making dinner is a sufficient condition for Izzy not playing Minecraft and Ashleigh stopping by."
+    ],
+    "answer": "B",
+    "answer_index": 1,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-formal_logic"
+  },
+  {
+    "question_id": 11094,
+    "question": " Nagel thinks that the core of the absolutist position is that",
+    "options": [
+      "all actions are morally equivalent.",
+      "it is permissible to harm as a foreseen but unintended consequence of action.",
+      "the ends justify the means.",
+      "individuals should always act in their own best interest.",
+      "the moral worth of an action is determined by its outcome.",
+      "no action can be morally justified.",
+      "morality is subjective and varies from person to person.",
+      "the hostility should be directed at its true object.",
+      "human persons have a right to life.",
+      "each person should pursue his or her own happiness."
+    ],
+    "answer": "H",
+    "answer_index": 7,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-moral_disputes"
+  },
+  {
+    "question_id": 11188,
+    "question": "Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\n~K \u2261 L / (K \u00b7 L) \u2228 (K \u00b7 ~L)",
+    "options": [
+      "Invalid. Counterexample when K is true and L is false",
+      "Valid. Counterexample when K is true and L is false",
+      "Valid. No counterexamples exist",
+      "Invalid. Counterexample when L is true and K is false",
+      "Invalid. Counterexample when K and L are true",
+      "Invalid. Multiple counterexamples exist",
+      "Valid",
+      "Invalid. Counterexample when L is false and K is true",
+      "Invalid. Counterexample when both K and L are false"
+    ],
+    "answer": "D",
+    "answer_index": 3,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-formal_logic"
+  },
+  {
+    "question_id": 11061,
+    "question": "We must assume that he is a Communist, because he says that he is not, and we know that Communists are taught always to deny party membership.",
+    "options": [
+      "Argument from Ignorance",
+      "Affirming the Consequent",
+      "Denying the Antecedent",
+      "Begging the Question"
+    ],
+    "answer": "B",
+    "answer_index": 1,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-logical_fallacies"
+  },
+  {
+    "question_id": 10917,
+    "question": " Which of the following is not one of the four main excuses for terrorism that Michael Walzer discusses?",
+    "options": [
+      "Terrorism is a form of freedom of speech.",
+      "Terrorism is a necessary evil.",
+      "Terrorism benefits oppressed groups.",
+      "Terrorism is driven by economic factors.",
+      "Terrorism is a legitimate form of self-defense.",
+      "All political activity is terroristic.",
+      "Terrorism is a method of political influence.",
+      "Terrorism is a response to unjust government actions.",
+      "Terrorism is a last resort.",
+      "Terrorism is an expression of religious beliefs."
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-moral_disputes"
+  },
+  {
+    "question_id": 11182,
+    "question": "According to Cicero, the most practical branch of philosophy deals with:",
+    "options": [
+      "moral duties.",
+      "epistemology.",
+      "logic.",
+      "expedience.",
+      "mathematics.",
+      "natural science.",
+      "political theory.",
+      "aesthetics.",
+      "rhetoric.",
+      "metaphysics."
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-philosophy"
+  },
+  {
+    "question_id": 10786,
+    "question": " If a global ban would not be effective in prohibiting genetic engineering that goes beyond eliminating obvious defects, then Singer suggests which \"bolder\" strategy?",
+    "options": [
+      "none of the above",
+      "using a lottery system so everyone gets a fair chance at the benefits of genetic engineering",
+      "using sanctions and trade restrictions against countries that violate the ban",
+      "allowing genetic engineering only for medical purposes",
+      "promoting genetic engineering only for the wealthy",
+      "creating a global consensus on acceptable genetic engineering practices",
+      "developing a global regulatory body to monitor and control genetic engineering activities",
+      "implementing a global education program to convince people of the dangers of excessive genetic engineering",
+      "requiring genetic engineering for every newborn child",
+      "creating a world military that would enforce the ban with greater strength"
+    ],
+    "answer": "B",
+    "answer_index": 1,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-moral_disputes"
+  },
+  {
+    "question_id": 11133,
+    "question": " Which of the following is evidence that de Marneffe cites in support of the claim that increased availability of a drug leads to increased use of that drug?",
+    "options": [
+      "Marijuana use increased in states where it was legalized.",
+      "Methamphetamine use increased during periods when it was readily available.",
+      "The percentage of physicians who use psychoactive drugs is much higher than the general population.",
+      "Heroin use was much higher among military personnel in Vietnam than it was among veterans who returned to the United States.",
+      "The number of smokers increased after the introduction of e-cigarettes.",
+      "all of the above",
+      "Cocaine use decreased in areas where it was strictly prohibited.",
+      "Alcohol abuse declines when the law restricts the times it can be legally sold.",
+      "The use of prescription drugs is higher in countries where they are easily accessible.",
+      "The consumption of caffeine increased with the rise of coffee shops."
+    ],
+    "answer": "D",
+    "answer_index": 3,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-moral_disputes"
+  },
+  {
+    "question_id": 11022,
+    "question": "Aquinas claims that the ultimate perfection of operation is:",
+    "options": [
+      "peace.",
+      "virtue.",
+      "Godliness.",
+      "wisdom.",
+      "happiness.",
+      "faith.",
+      "tranquility.",
+      "delight.",
+      "pleasure.",
+      "purity."
+    ],
+    "answer": "H",
+    "answer_index": 7,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-philosophy"
+  },
+  {
+    "question_id": 11137,
+    "question": " Naturalists who concentrated on natural elements and processes are associated with which of the following?",
+    "options": [
+      "Mengzi",
+      "Zoroastrianism",
+      "Zen Buddhism",
+      "Shintoism",
+      "Vedic Philosophy",
+      "Humanistic Buddhism",
+      "Confucianism",
+      "Legalism",
+      "Yin-Yang School",
+      "Daoism"
+    ],
+    "answer": "I",
+    "answer_index": 8,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-world_religions"
+  },
+  {
+    "question_id": 49,
+    "question": "What is the sign of the covenant for Jewish males?",
+    "options": [
+      "Fasting on Yom Kippur",
+      "Lighting Shabbat candles",
+      "The rainbow",
+      "Circumcision",
+      "The Torah",
+      "Bar mitzvah",
+      "Keeping kosher",
+      "Wearing a kippah",
+      "A son",
+      "The Star of David"
+    ],
+    "answer": "D",
+    "answer_index": 3,
+    "cot_content": "A: Let's think step by step. We refer to Wikipedia articles on world religions for help. In Judaism, the most distinctive sign of the covenant is circumcision (brit milah). The answer is (D).",
+    "category": "philosophy",
+    "src": "cot_lib-world_religions"
+  },
+  {
+    "question_id": 10908,
+    "question": " What is the main reason why Arthur doesn't think that the poor have a right to aid from the affluent?",
+    "options": [
+      "Arthur believes that the provision of aid undermines the principles of free-market capitalism.",
+      "This kind of right would require a contract or agreement, and the affluent haven't entered into a contract or agreement with the poor.",
+      "The consequences of helping the poor would be worse than the consequences of not helping them.",
+      "The right to aid is a negative right.",
+      "Arthur contends that the concept of 'rights' is subjective and can't be universally applied.",
+      "Arthur believes that the affluent have earned their wealth and should not be obligated to share it.",
+      "Arthur believes that aid should only be given voluntarily, not out of obligation.",
+      "Arthur thinks that aid only perpetuates poverty and does not solve the root cause.",
+      "The poor are responsible for their own situation, according to Arthur.",
+      "Persons can never have a right to aid from anyone."
+    ],
+    "answer": "B",
+    "answer_index": 1,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-moral_disputes"
+  },
+  {
+    "question_id": 11164,
+    "question": " West argues that feminist legal theory has inadvertently led to the under-acknowledgement of the harms of consensual sex because",
+    "options": [
+      "it posits that all sex is rape.",
+      "by suggesting that the harm of rape is that it is nonconsensual, it implies that all consensual sex is good.",
+      "by suggesting that the harm of rape has nothing to do with the victim's gender, it implies that women are not especially harmed by nonconsensual sex.",
+      "it supports the idea that consent is the only factor determining the harm of sex.",
+      "it implies that consensual sex is inherently harmful.",
+      "by suggesting that the harm of rape is only physical, it implies that emotional trauma in consensual sex is not harmful.",
+      "by suggesting that rape is only harmful in cases of physical injury, it implies that psychological harm in consensual sex is not important.",
+      "it suggests that the harm of rape is entirely dependent on the victim's personal perception, thereby downplaying the potential harms of consensual sex.",
+      "all of the above.",
+      "it argues that women are not capable of giving consent."
+    ],
+    "answer": "B",
+    "answer_index": 1,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-moral_disputes"
+  },
+  {
+    "question_id": 10922,
+    "question": " Where is the key to liberation found within Sikhism?",
+    "options": [
+      "In faith in God",
+      "In the strict adherence to the Five Ks",
+      "In ascetic renunciation",
+      "In the practice of yoga and other physical disciplines",
+      "In acts of charity and service",
+      "In the community",
+      "In meditation and prayer",
+      "In the rejection of all worldly possessions",
+      "In the life of the householder"
+    ],
+    "answer": "I",
+    "answer_index": 8,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-world_religions"
+  },
+  {
+    "question_id": 10807,
+    "question": "Berkeley insists that heat and cold are _____.",
+    "options": [
+      "elements of nature that do not exist independently",
+      "only things existing apart from our minds",
+      "only sensations existing in our minds",
+      "physical objects",
+      "manifestations of our subconscious",
+      "only sensations existing outside our minds",
+      "not real unless they are observed",
+      "illusions",
+      "types of energy",
+      "purely subjective and not measurable"
+    ],
+    "answer": "C",
+    "answer_index": 2,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-philosophy"
+  },
+  {
+    "question_id": 10967,
+    "question": " Which tradition is known to promote \"gradual enlightenment\"?",
+    "options": [
+      "Soto Zen",
+      "Kegon Buddhism",
+      "Rinzai Zen",
+      "Nichiren",
+      "Confucianism",
+      "Jodo Shinshu",
+      "Bushido",
+      "Pure Land Buddhism",
+      "Shinto",
+      "Taoism"
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-world_religions"
+  },
+  {
+    "question_id": 10907,
+    "question": " If it were known that a policy would wipe out several animal species without negatively affecting human beings, Baxter would most likely say that",
+    "options": [
+      "this policy is morally problematic because it disrupts the natural order.",
+      "this policy is morally problematic because it negatively impacts biodiversity.",
+      "this policy is morally acceptable because it does not harm human beings.",
+      "this policy is morally unproblematic.",
+      "this policy is morally obligatory because it prioritizes human beings.",
+      "this policy is morally unacceptable because it eliminates several animal species.",
+      "this policy is morally obligatory because the environment ought not to exist.",
+      "this policy is morally problematic because it damages the integrity of the ecosystem.",
+      "this policy is morally problematic because it harms the environment."
+    ],
+    "answer": "D",
+    "answer_index": 3,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-moral_disputes"
+  },
+  {
+    "question_id": 10872,
+    "question": " Singer presents his three-premise argument in addition to appealing to the case of the drowning child because",
+    "options": [
+      "he argues that moral claims can only be justified through logical reasoning and real-life examples.",
+      "he believes that abstract arguments are more likely to convince one to act.",
+      "he believes that using both abstract arguments and emotional appeals provides a balanced perspective.",
+      "he wants to appeal to the reader's reason and not just pull at the reader's heartstrings.",
+      "he wants to show that moral obligations can arise from both rational argument and emotional response.",
+      "he believes arguments are a more efficient way to appeal to one's emotions.",
+      "he believes the case of the drowning child will make his argument more relatable.",
+      "he argues that our emotional reactions have no bearing on which moral claims are true.",
+      "he aims to appeal to both the logical and emotional aspects of the reader's mind.",
+      "he thinks that a combination of argument and emotion is more effective than either alone."
+    ],
+    "answer": "D",
+    "answer_index": 3,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-moral_disputes"
+  },
+  {
+    "question_id": 10842,
+    "question": "Aesthetics deals with objects that are_____.",
+    "options": [
+      "not essential to our existence",
+      "frequently used in daily life",
+      "not visible to the human eye",
+      "only appreciated by experts",
+      "universally liked",
+      "unimportant to most people",
+      "essential for survival",
+      "essential to our existence",
+      "rarely viewed",
+      "universally disliked"
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-philosophy"
+  },
+  {
+    "question_id": 10929,
+    "question": "Which of the following fallacies happens when someone concludes that someone couldn't have done something bad because he or she has good qualities?",
+    "options": [
+      "Hasty generalization",
+      "Guilt by association",
+      "Reprehensible personality",
+      "Laudatory personality",
+      "Ad hominem",
+      "Circular reasoning",
+      "Red herring",
+      "Slippery slope",
+      "Straw man fallacy",
+      "False cause"
+    ],
+    "answer": "D",
+    "answer_index": 3,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-logical_fallacies"
+  },
+  {
+    "question_id": 11067,
+    "question": "In Hobbes\u2019s view, to say something is good is to say that:",
+    "options": [
+      "it aligns with natural law.",
+      "it benefits society as a whole.",
+      "it is conducive to human happiness.",
+      "most people ought to desire it.",
+      "it is universally desired.",
+      "you desire it.",
+      "most people desire it.",
+      "it is desired by powerful individuals.",
+      "it is morally right.",
+      "it leads to a state of peace."
+    ],
+    "answer": "F",
+    "answer_index": 5,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-philosophy"
+  },
+  {
+    "question_id": 11109,
+    "question": "According to Mill, to determine whether one pleasure is more valuable than another, we must _____.",
+    "options": [
+      "determine which pleasure most experienced people prefer",
+      "consult science",
+      "consult religious leaders",
+      "determine which one is objectively most pleasurable",
+      "measure the intensity of each pleasure",
+      "consider which pleasure is most easily attainable",
+      "consult our personal preferences",
+      "determine which pleasure is most universally preferred",
+      "determine which pleasure lasts the longest",
+      "consult philosophers of the past"
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-philosophy"
+  },
+  {
+    "question_id": 11138,
+    "question": "According to Jaina traditions, what does the term ajiva mean?",
+    "options": [
+      "Sound",
+      "Non-living",
+      "Non-matter",
+      "Non-soul",
+      "Consciousness",
+      "Non-energy",
+      "Energy",
+      "Life",
+      "Matter",
+      "Soul"
+    ],
+    "answer": "D",
+    "answer_index": 3,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-world_religions"
+  },
+  {
+    "question_id": 10904,
+    "question": " According to Mill, the value of a particular pleasure depends on",
+    "options": [
+      "its rarity or frequency.",
+      "societal norms and values.",
+      "the individual's personal preference.",
+      "the amount of effort required to obtain it.",
+      "the potential pain that might accompany it.",
+      "its quantity alone.",
+      "its quality alone.",
+      "neither its quantity nor its quality.",
+      "both its quantity and its quality.",
+      "the duration of the pleasure."
+    ],
+    "answer": "I",
+    "answer_index": 8,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-moral_disputes"
+  },
+  {
+    "question_id": 11265,
+    "question": " Which of the following is, according to the introduction to chapter 8, typically defined as the act or practice of killing or allowing someone to die?",
+    "options": [
+      "murder",
+      "ethical killing",
+      "suicide",
+      "euthanasia"
+    ],
+    "answer": "D",
+    "answer_index": 3,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-moral_disputes"
+  },
+  {
+    "question_id": 11065,
+    "question": "Gauthier claims that there is nothing for practical rationality to be besides:",
+    "options": [
+      "logical justification.",
+      "epistemic justification.",
+      "existential justification.",
+      "theoretical justification.",
+      "moral justification.",
+      "emotional justification.",
+      "deliberative justification.",
+      "an illusion.",
+      "spiritual justification.",
+      "aesthetic justification."
+    ],
+    "answer": "G",
+    "answer_index": 6,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-philosophy"
+  },
+  {
+    "question_id": 10865,
+    "question": " Hourdequin argues that one flaw of consequentialist calculation is that",
+    "options": [
+      "it negates the notion that individuals are inherently self-interested actors.",
+      "it can run counter to the idea that persons are atomistic and individually rational actors.",
+      "it overlooks the potential conflict between individual and collective interests.",
+      "it can run counter to a person's being able to integrate her commitments at various levels.",
+      "it fails to reconcile prima facie duties.",
+      "it doesn't consider the potential of individuals to act against their own self-interest.",
+      "it undermines the importance of personal values and beliefs in decision-making.",
+      "it disregards the impact of social norms on individual decision-making.",
+      "it fails to recognize that possibility that the persons are best understood in relation to one another.",
+      "it discredits the notion that individuals can make morally autonomous decisions."
+    ],
+    "answer": "D",
+    "answer_index": 3,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-moral_disputes"
+  },
+  {
+    "question_id": 10963,
+    "question": " Which of the following is not an objection Pence gives to the argument that SCNT is not best for the child?",
+    "options": [
+      "The potential for genetic abnormalities is not a valid argument against SCNT.",
+      "The expectations people will place on SCNT individuals could be no worse than normal expectations of children created sexually.",
+      "The argument falsely assumes that SCNT individuals would have a lesser quality of life.",
+      "The argument assumes genetic determinism or genetic reductionism.",
+      "The argument fails to take into account the rights and autonomy of the parents.",
+      "The argument neglects the emotional and psychological well-being of the child.",
+      "People's prejudicial attitudes are likely to change.",
+      "SCNT could potentially lead to advancements in medical research and treatment.",
+      "The argument ignores the potential benefits of SCNT to society.",
+      "If people's prejudicial attitudes do not change, then we should not allow SCNT."
+    ],
+    "answer": "J",
+    "answer_index": 9,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-moral_disputes"
+  },
+  {
+    "question_id": 10856,
+    "question": " Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\nP \u2283 Q\nQ \u00b7 R / ~P \u00b7 R",
+    "options": [
+      "Valid",
+      "Invalid. Counterexample when P is false, R is true and Q is false",
+      "Invalid. Counterexample when P and R are true and Q is false",
+      "Invalid. Counterexample when P is false, Q is true and R is false",
+      "Invalid. Counterexample when P, Q, and R are all false",
+      "Invalid. Counterexample when R and Q are true and P is false",
+      "Invalid. Counterexample when P and Q are true and R is false",
+      "Invalid. Counterexample when P, R, and Q are true",
+      "Invalid. Counterexample when P is true, R is false and Q is true",
+      "Valid. No possible counterexample"
+    ],
+    "answer": "H",
+    "answer_index": 7,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-formal_logic"
+  },
+  {
+    "question_id": 11245,
+    "question": " When was the major shift by Greek philosophers who rejected the anthropomorphic view of the divine?",
+    "options": [
+      "Late Sixth Century BCE",
+      "Late Second Century BCE",
+      "Early Fifth Century BCE",
+      "Late Fourth Century BCE",
+      "Early First Century BCE",
+      "Early Third Century BCE",
+      "Fourth and Third Century BCE",
+      "Mid Seventh Century BCE",
+      "Early Sixth Century BCE",
+      "Second and First Century BCE"
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-world_religions"
+  },
+  {
+    "question_id": 10896,
+    "question": "Mill claims that the principle of utility:",
+    "options": [
+      "can only be proven through extensive observation and study.",
+      "can be proven from principles that are known empirically.",
+      "can be proven, but only under certain conditions.",
+      "is inherently flawed and therefore cannot be proven.",
+      "is a theory that has been widely disproven.",
+      "can be proven, but this is unique to the principle of utility.",
+      "cannot be proven, but this is common to all first principles.",
+      "can be proven, but only by using a complex mathematical model.",
+      "cannot be proven, and this is a unique problem for the theory.",
+      "can be proven from self-evident principles."
+    ],
+    "answer": "G",
+    "answer_index": 6,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-philosophy"
+  },
+  {
+    "question_id": 10999,
+    "question": " In responding to terrorism, says Walzer, it is particularly important that",
+    "options": [
+      "we isolate the terrorists and cut off their resources.",
+      "we focus on increasing security measures rather than retaliation.",
+      "we use the same tactics as terrorists to understand their methods.",
+      "we attack the lower-ranking terrorists first.",
+      "we take immediate military action against the terrorists.",
+      "we make an effort to convince the terrorists that they are acting wrongly.",
+      "we publicly condemn the terrorists' actions.",
+      "we avoid harming terrorists to the same extent that we would avoid harming innocent civilians.",
+      "we negotiate with the terrorists to reach a peaceful resolution.",
+      "we do not repeat the wrongs of terrorism in the process."
+    ],
+    "answer": "J",
+    "answer_index": 9,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-moral_disputes"
+  },
+  {
+    "question_id": 10998,
+    "question": " Baxter claims that his \"very general way\" of stating what we should strive for environmentally assumes that",
+    "options": [
+      "we have unlimited resources to address environmental issues.",
+      "human satisfaction is the only measure of environmental success.",
+      "we can measure in some way the incremental units of human satisfaction.",
+      "we can precisely predict the environmental impact of our actions.",
+      "the environment is solely a human construct.",
+      "all living organisms have equal value.",
+      "all of the above",
+      "we have a god-like control over the environment.",
+      "nonhuman animals have no value whatsoever.",
+      "environmental preservation is the sole responsibility of governments."
+    ],
+    "answer": "C",
+    "answer_index": 2,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-moral_disputes"
+  },
+  {
+    "question_id": 11281,
+    "question": "Of the two versions of the principle that Singer considers:",
+    "options": [
+      "he considers the stronger version to be correct.",
+      "he considers the weaker version to be correct.",
+      "he proposes a third, completely different principle.",
+      "he argues that the weaker version is stronger.",
+      "he claims that they are equivalent.",
+      "he supports both the stronger and the weaker versions.",
+      "he suggests that the principles are contradictory.",
+      "he does not distinguish between the two principles.",
+      "he states that both principles are incorrect.",
+      "he ends up rejecting them both."
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-philosophy"
+  },
+  {
+    "question_id": 11117,
+    "question": " Which of the given formulas of PL is the best symbolization of the following sentence?\nEverybody loves Raymond, or not.",
+    "options": [
+      "L \u2192 ~L",
+      "~L \u2022 L",
+      "L \u2228 ~L",
+      "L",
+      "L \u2227 L",
+      "L \u2022 ~L",
+      "~L \u2192 L",
+      "~L \u2227 ~L",
+      "~L"
+    ],
+    "answer": "C",
+    "answer_index": 2,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-formal_logic"
+  },
+  {
+    "question_id": 11135,
+    "question": " Nagel clarifies that absolutism is the view that we should",
+    "options": [
+      "only sometimes prevent murder",
+      "never prevent murder",
+      "only sometimes avoid murder",
+      "always encourage murder",
+      "consider murder as a last resort",
+      "encourage murder under certain circumstances",
+      "only sometimes encourage murder",
+      "avoid murder except in self-defense situations",
+      "avoid murder at all costs"
+    ],
+    "answer": "I",
+    "answer_index": 8,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-moral_disputes"
+  },
+  {
+    "question_id": 10787,
+    "question": " Collins suggests that the moral value of caring actions comes from",
+    "options": [
+      "the cost-effectiveness of caring actions in terms of resources expended.",
+      "the non-instrumental value of caring actions as manifestations of intrinsic goods for person like love and forgiveness.",
+      "the value assigned to the action by the person performing the caring act.",
+      "how well any caring actions fulfills the recipient's interests and the strength of one's intention to fulfill the recipient's interest.",
+      "the balance between the intention and the actual outcome of the caring actions.",
+      "the intrinsic value of caring attitudes which motivate caring actions.",
+      "the impact of the actions on the overall well-being of the society.",
+      "the degree to which those actions align with societal norms and expectations.",
+      "the extent to which the actions are recognized and appreciated by others.",
+      "the degree to which those actions produces the greatest amount of happiness in the recipient of care."
+    ],
+    "answer": "D",
+    "answer_index": 3,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-moral_disputes"
+  },
+  {
+    "question_id": 10989,
+    "question": "Use indirect truth tables to determine whether the following argument is valid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\nH \u2261 (I \u00b7 ~J)\nK \u2261 ~H\n~(K \u2283 J) / I \u2261 J",
+    "options": [
+      "Valid",
+      "Invalid. Counterexample when I, J, and K are true and H is false",
+      "Invalid. Counterexample when K is true and I, H, and J are false",
+      "Invalid. Counterexample when H, I, and J are true and K is false",
+      "Invalid. Counterexample when K and J are true and I and H are false",
+      "Invalid. Counterexample when H and J are true and I and K are false",
+      "Invalid. Counterexample when I and J are true and H and K are false",
+      "Invalid. Counterexample when I and H are true and J and K are false",
+      "Invalid. Counterexample when J is true and I, H, and K are false",
+      "Invalid. Counterexample when I, H, and K are true and J is false"
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-formal_logic"
+  },
+  {
+    "question_id": 11059,
+    "question": "Which of the following describes the fallacy of appeal to popularity?",
+    "options": [
+      "saying someone should do something because he or she dislikes someone else",
+      "saying someone should do something to be better liked by others",
+      "saying someone should do something because it will make him or her feel good",
+      "saying someone should accept an idea because of the source of the idea"
+    ],
+    "answer": "B",
+    "answer_index": 1,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-logical_fallacies"
+  },
+  {
+    "question_id": 10852,
+    "question": "According to Rawls, the two parts of his theory:",
+    "options": [
+      "can be proven false with logical reasoning.",
+      "are independent: You can accept either part without accepting the other.",
+      "are based purely on empirical evidence.",
+      "are not open to debate or disagreement.",
+      "cannot be justified via rational means.",
+      "can only be justified through emotional appeal.",
+      "are based on personal preferences and biases.",
+      "are dependent on each other, but can be accepted separately.",
+      "are interdependent: You cannot accept one part without accepting the other.",
+      "are provable from self-evident premises."
+    ],
+    "answer": "B",
+    "answer_index": 1,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-philosophy"
+  },
+  {
+    "question_id": 11191,
+    "question": " Select the best translation into predicate logic. Some animals are neglected by cruel people. (Ax: x is an animal; Cx: x is cruel; Px: x is a person; Nxy: x neglects y)",
+    "options": [
+      "(\u2203x)[(Cx \u2022 Py) \u2022 (\u2203y)(Ay \u2022 Nyx)]",
+      "(\u2203x)[(Px \u2022 Ax) \u2022 (\u2203y)(Cy \u2022 Nyx)]",
+      "(\u2203x)[(Ax \u2022 Cx) \u2022 (\u2203y)(Py \u2022 Nyx)]",
+      "(\u2203x)[(Cx \u2022 Px) \u2022 (\u2203y)(Ay \u2022 Nxy)]",
+      "(\u2203x)[(Ax \u2022 Px) \u2022 (\u2203y)(Cy \u2022 Nxy)]",
+      "(\u2203x)[(Px \u2022 Cx) \u2022 (\u2203y)(Ay \u2022 Nyx)]",
+      "(\u2203x)(\u2203y){[(Ax \u2022 Px) \u2022 Cy] \u2022 Nyx)}",
+      "(\u2203x)[(Ax \u2022 Px) \u2022 (\u2203y)(Cy \u2022 Nyx)]",
+      "(\u2203x)(\u2203y){[(Ax \u2022 Cy) \u2022 Py] \u2022 Nxy)]}"
+    ],
+    "answer": "D",
+    "answer_index": 3,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-formal_logic"
+  },
+  {
+    "question_id": 10839,
+    "question": "In a faulty analogy, the things being compared are...",
+    "options": [
+      "Completely unrelated in any way",
+      "Similar in some ways, different in others",
+      "Similar in appearance, but not in function",
+      "Sufficiently similar",
+      "Not sufficiently similar in relevant ways",
+      "Different in appearance, but similar in function",
+      "Completely identical in all ways",
+      "Completely dissimilar in all ways",
+      "Complete opposites"
+    ],
+    "answer": "E",
+    "answer_index": 4,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-logical_fallacies"
+  },
+  {
+    "question_id": 10877,
+    "question": " Which Christian denomination promotes a stripped-down Christianity?",
+    "options": [
+      "Roman Catholic",
+      "Lutherans",
+      "Methodists",
+      "Greek Orthodox",
+      "Quakers",
+      "Seventh-day Adventists",
+      "Baptists",
+      "Mormons",
+      "Puritans",
+      "Anglicans"
+    ],
+    "answer": "E",
+    "answer_index": 4,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-world_religions"
+  },
+  {
+    "question_id": 10972,
+    "question": " Which Hindu festival involves decorating the house with lights, setting off firecrackers and wearing new clothes?",
+    "options": [
+      "Pongal",
+      "Ganesh Chaturthi",
+      "Janmashtami",
+      "Holi",
+      "Karva Chauth",
+      "Makar Sankranti",
+      "Deepavali",
+      "Navaratri",
+      "Raksha Bandhan"
+    ],
+    "answer": "G",
+    "answer_index": 6,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-world_religions"
+  },
+  {
+    "question_id": 11070,
+    "question": "According to Parfit, the obligation to give priority to the welfare of one\u2019s children is:",
+    "options": [
+      "agent-relative.",
+      "agent-neutral.",
+      "absolute.",
+      "none of the above."
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-philosophy"
+  },
+  {
+    "question_id": 11237,
+    "question": " According to Sinnott-Armstrong, the fact your government morally ought to do something",
+    "options": [
+      "does not prove that government officials ought to promote it.",
+      "does not prove that you ought to do it.",
+      "proves that you ought not to do it.",
+      "proves that you ought to do it, too."
+    ],
+    "answer": "B",
+    "answer_index": 1,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-moral_disputes"
+  },
+  {
+    "question_id": 11123,
+    "question": " Use the following key to translate the given formula of PL to natural, English sentences.\nA: Marina reads a Percy Jackson book.\nB: Izzy plays Minecraft.\nC: Emily stops working.\nD: Russell makes dinner.\nE: Ashleigh stops by.\n~C \u2228 D",
+    "options": [
+      "Emily doesn't stop working unless Russell makes dinner.",
+      "If Emily doesn't stop working then Russell makes dinner.",
+      "Emily stops working if Russell doesn't make dinner.",
+      "Russell doesn't make dinner if Emily stops working.",
+      "If Emily stops working then Russell doesn't make dinner.",
+      "If Russell makes dinner then Emily doesn't stop working.",
+      "Russell doesn't make dinner unless Emily stops working.",
+      "Emily stops working unless Russell doesn't make dinner.",
+      "Russell makes dinner if Emily doesn't stop working."
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-formal_logic"
+  },
+  {
+    "question_id": 10926,
+    "question": " Which Confucian philosopher is described as a mystic due to his focus on qi (or ch'i)?",
+    "options": [
+      "Zhuangzi",
+      "Dao",
+      "Xunzi",
+      "Laozi",
+      "Zisi",
+      "Wang Yangming",
+      "Mencius",
+      "Confucius",
+      "Han Feizi",
+      "Mozi"
+    ],
+    "answer": "G",
+    "answer_index": 6,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-world_religions"
+  },
+  {
+    "question_id": 11278,
+    "question": "A slippery-slope pattern of argument is fallacious when...",
+    "options": [
+      "There is good reason to think that doing one action will inevitably lead to another undesirable action",
+      "It is based on a logical progression",
+      "There are more than two possible results",
+      "It is based on a series of cause and effect situations",
+      "It is grounded in established facts",
+      "It is based on a hypothetical situation",
+      "There is no good reason to think that doing one action will inevitably lead to another undesirable action",
+      "There are only two possible results",
+      "There is a significant amount of evidence supporting the pattern",
+      "It is hypothetical"
+    ],
+    "answer": "G",
+    "answer_index": 6,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-logical_fallacies"
+  },
+  {
+    "question_id": 11221,
+    "question": " Use the following key to translate the given formula of PL to natural, English sentences.\nA: Marina reads a Percy Jackson book.\nB: Izzy plays Minecraft.\nC: Emily stops working.\nD: Russell makes dinner.\nE: Ashleigh stops by.\n~(A \u2283 B) \u2022 (B \u2283 ~E)",
+    "options": [
+      "It's not true that Marina reading a Percy Jackson book causes Izzy to play Minecraft, but it is true that if Izzy plays Minecraft, Ashleigh won't stop by.",
+      "It's not true that Marina reads a Percy Jackson book only when Izzy plays Minecraft, but Izzy plays Minecraft only when Ashleigh stops by.",
+      "Marina's reading a Percy Jackson book has no effect on whether Izzy plays Minecraft, but if Izzy does play Minecraft, Ashleigh will not stop by.",
+      "If Marina reads a Percy Jackson book, then Izzy doesn't play Minecraft, but if Izzy does play Minecraft, Ashleigh won't stop by.",
+      "It's not the case that Marina's reading a Percy Jackson book entails that Izzy plays Minecraft, but Izzy's playing Minecraft does entail that Ashleigh doesn't stop by.",
+      "Marina's reading a Percy Jackson book does not entail that Izzy plays Minecraft, but Izzy plays Minecraft provided that Ashleigh doesn't stop by.",
+      "If Marina doesn't read a Percy Jackson book, then Izzy doesn't play Minecraft, and Izzy's playing Minecraft means Ashleigh does stop by.",
+      "Marina reading a Percy Jackson book doesn't entail Izzy playing Minecraft, but if Izzy doesn't play Minecraft, Ashleigh stops by.",
+      "Marina's reading a Percy Jackson book entails that Izzy plays Minecraft, and if Izzy plays Minecraft, Ashleigh stops by.",
+      "If Marina doesn't read a Percy Jackson book, then Izzy plays Minecraft, which entails that Ashleigh doesn't stop by."
+    ],
+    "answer": "E",
+    "answer_index": 4,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-formal_logic"
+  },
+  {
+    "question_id": 11126,
+    "question": "Select the best translation into predicate logic. Alexis is greeted by Ben. (a: Alexis; b: Ben; Gxy: x greets y)",
+    "options": [
+      "G(ab)",
+      "aGb",
+      "aGba",
+      "~Gba",
+      "Gba",
+      "Gaa",
+      "Gab",
+      "Gb~a",
+      "Gbb",
+      "Ga/b"
+    ],
+    "answer": "E",
+    "answer_index": 4,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-formal_logic"
+  },
+  {
+    "question_id": 11047,
+    "question": " Marcia Baron argues that the artificiality of ticking bomb cases is problematic because",
+    "options": [
+      "the artificial assumptions are, in fact, empirical claims that are central to the debate.",
+      "it leads us to believe that torture is always permissible.",
+      "all artificial thought experiments are philosophically useless."
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-moral_disputes"
+  },
+  {
+    "question_id": 11232,
+    "question": " In Singer's view, the question of when it's wrong to painlessly kill an animal is one",
+    "options": [
+      "that is irrelevant as it is never wrong to painlessly kill an animal.",
+      "that is only wrong if the animal is a pet.",
+      "that is entirely dependent on the species of the animal.",
+      "that is dependent on the cultural norms of a society.",
+      "that is ethically unimportant.",
+      "that is only applicable to endangered species.",
+      "to which we need give no precise answer.",
+      "that cannot be answered, vaguely or precisely.",
+      "to which we need to give a precise answer.",
+      "that should be answered on a case-by-case basis."
+    ],
+    "answer": "G",
+    "answer_index": 6,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-moral_disputes"
+  },
+  {
+    "question_id": 11120,
+    "question": " Use indirect truth tables to determine whether each set of propositions is consistent. If the set is consistent, choose an option with a consistent valuation. (There may be other consistent valuations.)\nD \u2261 E\nF \u2228 D\n~E \u00b7 ~F",
+    "options": [
+      "Consistent. Consistent valuation when D and E are true and F is true",
+      "Inconsistent",
+      "Consistent. Consistent valuation when D is true, E and F are false",
+      "Consistent. Consistent valuation when E is true, D and F are false",
+      "Consistent. Consistent valuation when D and E are true and F is false",
+      "Consistent. Consistent valuation when D, E are false and F is true",
+      "Consistent. Consistent valuation when D and F are true and E is false",
+      "Consistent. Consistent valuation when D, E, and F are true",
+      "Consistent. Consistent valuation when F is true, D and E are false",
+      "Consistent. Consistent valuation when D, E and F are false"
+    ],
+    "answer": "B",
+    "answer_index": 1,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-formal_logic"
+  },
+  {
+    "question_id": 11060,
+    "question": "Which of the following best describes the fallacy of figure of speech?",
+    "options": [
+      "Assuming that a particular figure of speech is universally understood.",
+      "Using an irrelevant figure of speech to divert attention from the argument.",
+      "A form of loaded language that uses an emotionally charged restatement of the claim in place of support for the claim.",
+      "Misinterpreting a figure of speech as a logical argument.",
+      "Misusing a figure of speech in order to make a claim sound more persuasive.",
+      "Confusing the meaning of a figure of speech with its literal translation.",
+      "Treating something that exists in the mind as if it was a real object.",
+      "Using a figure of speech in place of a factual claim.",
+      "Using emotionally charged language to create an impression about the subject of a claim, without making an argument that the language fits the subject.",
+      "Confusing figurative language with literal language."
+    ],
+    "answer": "J",
+    "answer_index": 9,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-logical_fallacies"
+  },
+  {
+    "question_id": 10857,
+    "question": " Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.\n~O \u2283 P and O \u2228 P",
+    "options": [
+      "Both consistent and inconsistent",
+      "Neither logically equivalent nor contradictory, but inconsistent",
+      "Contradictory",
+      "Both contradictory and inconsistent",
+      "Neither logically equivalent nor contradictory, but consistent",
+      "Both logically equivalent and contradictory",
+      "Both logically equivalent and consistent",
+      "Logically equivalent",
+      "Inconsistent",
+      "Neither logically equivalent, contradictory, consistent, nor inconsistent"
+    ],
+    "answer": "H",
+    "answer_index": 7,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-formal_logic"
+  },
+  {
+    "question_id": 10814,
+    "question": "Select the best translation into predicate logic: Either Taylor or Eric is a latte boy.",
+    "options": [
+      "Lt \u2228 Le",
+      "Lx \u2228 Ly",
+      "Lt \u2227 Le",
+      "L(t \u2227 e)",
+      "tL \u2283 eL",
+      "tL \u2228 eL",
+      "Lx \u2227 Ly",
+      "L(t \u2228 e)",
+      "E \u2228 T",
+      "Tl \u2283 El"
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-formal_logic"
+  },
+  {
+    "question_id": 11271,
+    "question": " Papadaki thinks that in cases where partners in a relationship mutually deny each other's humanity that",
+    "options": [
+      "the context of the relationship is irrelevant in determining sexual objectification.",
+      "sexual objectification occurs.",
+      "the context of the relationship will determine whether or not sexual objectification occurred.",
+      "sexual objectification is only valid in a non-mutual context.",
+      "only physical abuse qualifies as sexual objectification.",
+      "both partners are incapable of sexually objectifying each other.",
+      "there is no straightforward answer to the question of whether or not sexual objectification occurs.",
+      "sexual objectification does not occur.",
+      "the partner who denies the other's humanity is always the one who sexually objectifies.",
+      "neither partner is capable of sexual objectification."
+    ],
+    "answer": "G",
+    "answer_index": 6,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-moral_disputes"
+  },
+  {
+    "question_id": 11091,
+    "question": " Suppose two athletes, A and B, are equally skilled. Suppose also that A naturally inherited certain traits from her father that made playing the sport easier for her, and thus she didn't have to train as hard as B. According to the ethic of willfulness,",
+    "options": [
+      "A is a better athlete.",
+      "B is a better athlete.",
+      "B doesn't count as an athlete because training precludes athleticism.",
+      "A and B are equally good athletes."
+    ],
+    "answer": "B",
+    "answer_index": 1,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-moral_disputes"
+  },
+  {
+    "question_id": 11042,
+    "question": " Richardson-Self argues that sexist speech",
+    "options": [
+      "Can never be considered hate speech regardless of context",
+      "Is never hate speech because it is a form of free expression.",
+      "is always hate speech, because it does not involves violence.",
+      "is not always hate speech, because it does not involve violence",
+      "is always hate speech, because it involves violence.",
+      "Is not hate speech because it is protected under freedom of speech",
+      "Is always hate speech because it promotes gender inequality",
+      "Is only hate speech when it directly incites violence",
+      "Can be considered hate speech when it promotes discrimination",
+      "I s not always hate speech, because it always involves violence."
+    ],
+    "answer": "D",
+    "answer_index": 3,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-moral_disputes"
+  },
+  {
+    "question_id": 10984,
+    "question": " Which of the given formulas of PL is the best symbolization of the following sentence?\nIf Beth rides her bike, she gets to work earlier.",
+    "options": [
+      "W \u2228 B",
+      "B \u2283 W",
+      "B \u2228 W",
+      "\u00acB \u2283 W",
+      "W \u2283 B",
+      "\u00acW \u2283 B",
+      "B \u2261 \u00acW",
+      "B \u2261 W",
+      "B & W",
+      "Both A and B"
+    ],
+    "answer": "B",
+    "answer_index": 1,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-formal_logic"
+  },
+  {
+    "question_id": 11092,
+    "question": " Lukianoff and Haidt argue that trigger warnings involve which kind of pathological thinking?",
+    "options": [
+      "fortune-telling",
+      "blaming",
+      "dichotomous thinking",
+      "resentment"
+    ],
+    "answer": "B",
+    "answer_index": 1,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-moral_disputes"
+  },
+  {
+    "question_id": 10941,
+    "question": "The idea that mental states are dispositions to behave in particular ways in certain circumstances is known as _____.",
+    "options": [
+      "functionalism",
+      "psychoanalytic theory",
+      "logical behaviorism",
+      "radical behaviorism",
+      "methodological behaviorism",
+      "structuralism",
+      "cognitive psychology",
+      "eliminative materialism",
+      "dualism",
+      "logical nominalism"
+    ],
+    "answer": "C",
+    "answer_index": 2,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-philosophy"
+  },
+  {
+    "question_id": 11032,
+    "question": " Select the best translation into predicate logic. All jellybeans are sweeter than all fruit. (Fx: x is a fruit; Jx: x is a jellybean; Sxy: x is sweeter than y)",
+    "options": [
+      "(\u2200x)[Jx \u2283 (\u2200y)(Jy \u2283 Sxy)]",
+      "(\u2200x)(\u2200y)[(Fx \u2022 Jy) \u2022 Sxy]",
+      "(\u2200x)(\u2200y)[Sxy \u2283 (Jx \u2022 Fy)]",
+      "(\u2200x)(\u2200y)[Sxy \u2283 (Fy \u2022 Jx)]",
+      "(\u2200x)[Jx \u2283 (\u2200y)(Fy \u2283 Sxy)]",
+      "(\u2200x)(\u2200y)[(Jx \u2022 Fy) \u2283 Sxy]",
+      "(\u2200x)(\u2200y)[(Fx \u2022 Jy) \u2283 Sxy]",
+      "(\u2200x)[Fx \u2283 (\u2200y)(Jy \u2283 Sxy)]",
+      "(\u2200x)[Fx \u2283 (\u2200y)(Sxy \u2283 Jy)]",
+      "(\u2200x)[Jx \u2283 (\u2200y)(Sxy \u2283 Fy)]"
+    ],
+    "answer": "E",
+    "answer_index": 4,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-formal_logic"
+  },
+  {
+    "question_id": 10810,
+    "question": "According to Epicurus, the wealth required for a good life is:",
+    "options": [
+      "easily procured.",
+      "available only to the educated.",
+      "available only to the rich.",
+      "obtained only through the accumulation of material possessions.",
+      "achievable only through constant labor and struggle.",
+      "attainable for everyone, but only through great effort.",
+      "gained only through inheritance or luck.",
+      "not necessary for a good life.",
+      "available only to the gods.",
+      "requiring a lifetime of pursuit."
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-philosophy"
+  },
+  {
+    "question_id": 11223,
+    "question": " Select the best translation into predicate logic:: Some blue herons migrate.",
+    "options": [
+      "(\u2200x)[(Mx \u2022 Bx) \u2283 Hx]",
+      "(\u2200x)[(Hx \u2022 Bx) \u2022 Mx]",
+      "(\u2200x)[(Hx \u2022 Mx) \u2022 Bx]",
+      "(\u2203x)[(Hx \u2022 Bx) \u2022 Mx]",
+      "(\u2203x)[(Hx \u2022 Bx) \u2283 Mx]",
+      "(\u2203x)[(Bx \u2022 Hx) \u2283 Mx]",
+      "(\u2200x)[(Hx \u2022 Bx) \u2283 Mx]",
+      "(\u2203x)[(Bx \u2022 Mx) \u2283 Hx]",
+      "(\u2200x)[(Hx \u2022 Mx) \u2283 Bx]"
+    ],
+    "answer": "D",
+    "answer_index": 3,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-formal_logic"
+  },
+  {
+    "question_id": 10888,
+    "question": "When someone changes the meaning of a word or phrase from one part of the argument to another that person may have committed which of the following fallacies?",
+    "options": [
+      "Hypostatization",
+      "Appeal to authority",
+      "Red herring fallacy",
+      "False cause fallacy",
+      "Straw man fallacy",
+      "Special pleading",
+      "Equivocation",
+      "Slippery slope fallacy",
+      "Ad hominem attack",
+      "Question begging epithets"
+    ],
+    "answer": "G",
+    "answer_index": 6,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-logical_fallacies"
+  },
+  {
+    "question_id": 10905,
+    "question": " Nathanson supports which of the following kinds of retributivism?",
+    "options": [
+      "proportional",
+      "equality",
+      "retaliatory",
+      "punitive",
+      "compensatory",
+      "absolute",
+      "restorative",
+      "corrective",
+      "preventive",
+      "consequential"
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-moral_disputes"
+  },
+  {
+    "question_id": 11062,
+    "question": "For Socrates, an unexamined life is a tragedy because it results in grievous harm to _____.",
+    "options": [
+      "the soul",
+      "the economic system",
+      "the body",
+      "the individual's reputation",
+      "the community",
+      "the state",
+      "the family",
+      "the justice system",
+      "the educational system",
+      "the environment"
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-philosophy"
+  },
+  {
+    "question_id": 10946,
+    "question": "Select the best translation into predicate logic. Marco moves from Italy to Spain. (i: Italy; m: Marco; s: Spain; Mxyz: x moves to y from z)",
+    "options": [
+      "Mism",
+      "Mssi",
+      "Msim",
+      "Mmis",
+      "Mmsi",
+      "Mims"
+    ],
+    "answer": "E",
+    "answer_index": 4,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-formal_logic"
+  },
+  {
+    "question_id": 11011,
+    "question": "I don't understand why everyone thinks they belong in college. After all, everyone knows that when you are intelligent you'll succeed. But so many people that elect to attend college don't have even the most basic intelligence. How do they expect to get anywhere here?",
+    "options": [
+      "Attacking the Person (ad hominem)",
+      "Straw Man",
+      "Denying the Antecedent",
+      "Begging the Question"
+    ],
+    "answer": "C",
+    "answer_index": 2,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-logical_fallacies"
+  },
+  {
+    "question_id": 11083,
+    "question": " Why, according to Gill, does Leon Kass think the notion of being \"better off dead\" is incoherent?",
+    "options": [
+      "because Kass thinks that death is not a state of being and therefore cannot be evaluated.",
+      "because Kass believes in the sanctity of life and opposes euthanasia.",
+      "because Kass maintains that the concept of death is inherently negative and cannot be considered as \"better\".",
+      "because there has yet to be a satisfactory philosophical explanation of why death is bad.",
+      "because dead people no longer exist, and thus cannot benefit from choosing to die.",
+      "because Kass believes suffering in life can lead to personal growth, making death not a better option.",
+      "because some things (e.g., long-term torture) are worse than death.",
+      "because Kass believes that one cannot compare being alive and being dead.",
+      "because death is, by definition, undesirable.",
+      "because death cannot be considered as a better option when life is valuable."
+    ],
+    "answer": "E",
+    "answer_index": 4,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-moral_disputes"
+  },
+  {
+    "question_id": 11012,
+    "question": "Which of the following describes the fallacy of appeal to loyalty?",
+    "options": [
+      "arguing that someone should do something to be loyal to an opposing person or group",
+      "arguing that someone should do something to be loyal to a person or a group",
+      "arguing that someone should do something because it is the traditional thing to do",
+      "arguing that someone should do something because it will make him or her better liked by others",
+      "arguing that an idea should be rejected only because of who originated the idea",
+      "responding to an argument with an expression of derision",
+      "arguing that an idea should be accepted because it is the most recent or modern idea",
+      "arguing that an idea should be accepted only because of who originated the idea",
+      "arguing that someone should do something because it is the popular thing to do",
+      "arguing that an idea should be accepted because it has been around for a long time"
+    ],
+    "answer": "B",
+    "answer_index": 1,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-logical_fallacies"
+  },
+  {
+    "question_id": 11020,
+    "question": "According to Hobbes, in the condition of man in which there is a state of war of everyone against everyone, every man has a right to _____.",
+    "options": [
+      "due process",
+      "property",
+      "self-defense",
+      "freedom of speech",
+      "lawful treatment",
+      "good health",
+      "privacy",
+      "everything",
+      "peace and harmony",
+      "some things"
+    ],
+    "answer": "H",
+    "answer_index": 7,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-philosophy"
+  },
+  {
+    "question_id": 11024,
+    "question": "When Euthyphro attempts to define the holy as prosecuting wrongdoers, Socrates objects that:",
+    "options": [
+      "it is impossible for humans to judge what is holy.",
+      "there are many other things that are also holy.",
+      "the concept of 'wrongdoing' is too subjective to define holiness.",
+      "only gods can decide who the wrongdoers are.",
+      "Euthyphro is not a reliable authority on what is holy.",
+      "all of the above.",
+      "prosecuting wrongdoers is not always holy.",
+      "all actions have the potential to be holy.",
+      "prosecuting wrongdoers is not a religious matter."
+    ],
+    "answer": "B",
+    "answer_index": 1,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-philosophy"
+  },
+  {
+    "question_id": 10874,
+    "question": " When we think about the norms of creation, Little argues that",
+    "options": [
+      "it can be a sign of respect to terminate a pregnancy when certain background conditions, like a loving family, are not met.",
+      "it is never a sign of respect to terminate a pregnancy, because we should value and hold sacred the act of creation.",
+      "we see the abortion issue as a matter of the personal preferences of the mother.",
+      "none of the above."
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-moral_disputes"
+  },
+  {
+    "question_id": 10899,
+    "question": "Select the best translation into predicate logic: Cecilia breaks my heart if, and only if, Maria is either a problem or a girl.",
+    "options": [
+      "Bc \u2283 (Pm \u2283 Gm)",
+      "Cb \u2283 (Pm \u2022 Gm)",
+      "Bc \u2261 (Pm \u2283 Gm)",
+      "Bc \u2283 (Pm \u2228 Gm)",
+      "Bc \u2261 (Pm \u2022 Gm)",
+      "Cb \u2283 (Pm \u2228 Gm)",
+      "Bc \u2261 (Gm \u2022 Pm)",
+      "Cb \u2283 (Gm \u2228 Pm)",
+      "Bc \u2283 (Pm \u2022 Gm)",
+      "Bc \u2261 (Pm \u2228 Gm)"
+    ],
+    "answer": "J",
+    "answer_index": 9,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-formal_logic"
+  },
+  {
+    "question_id": 10979,
+    "question": "In Aristotle\u2019s terminology, incontinence is when:",
+    "options": [
+      "one knows that one's feelings are inappropriate, but acts on them anyway.",
+      "one knows that one\u2019s feelings are inappropriate, and does not act on them.",
+      "one acts on one's feelings, regardless of their appropriateness.",
+      "one does not know that one\u2019s actions are wrong.",
+      "one knows that one\u2019s actions are wrong, but does them anyway.",
+      "one does not act despite knowing that one's actions are right.",
+      "one does the right action, but for the wrong reason.",
+      "one does not know that one's actions are right.",
+      "one does the right action, but does not understand why it's right."
+    ],
+    "answer": "E",
+    "answer_index": 4,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-philosophy"
+  },
+  {
+    "question_id": 10846,
+    "question": "Hare asserts that ethics and science are similar in that:",
+    "options": [
+      "both are infallible and beyond questioning.",
+      "ethics guides science in its pursuit of knowledge.",
+      "both are essential components of a worthwhile life.",
+      "both are completely separate and do not intersect.",
+      "both seek to provide us with true beliefs about the world.",
+      "both involve testing general principles by examining their logical consequences.",
+      "all of the above.",
+      "both are based solely on personal opinions and beliefs."
+    ],
+    "answer": "F",
+    "answer_index": 5,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-philosophy"
+  },
+  {
+    "question_id": 11253,
+    "question": "Wolf claims that morality:",
+    "options": [
+      "is merely a cultural artifact.",
+      "is not really relevant to our lives.",
+      "provides a comprehensive guide to conduct.",
+      "none of the above."
+    ],
+    "answer": "D",
+    "answer_index": 3,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-philosophy"
+  },
+  {
+    "question_id": 11104,
+    "question": "All things that are spoiled are inedible. Timothy is spoiled. So, Timothy is inedible.",
+    "options": [
+      "Equivocation",
+      "Attacking the Person (ad hominem)",
+      "Fallacy of Division",
+      "Questionable Cause"
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-logical_fallacies"
+  },
+  {
+    "question_id": 10900,
+    "question": " Construct a complete truth table for the following pairs of propositions. Then, using the truth tables, determine whether the statements are logically equivalent or contradictory. If neither, determine whether they are consistent or inconsistent. Justify your answers.\nI \u2261 ~H and ~(~I \u2261 H)",
+    "options": [
+      "Neither logically equivalent nor contradictory, but consistent",
+      "Both contradictory and inconsistent",
+      "Neither logically equivalent, contradictory, consistent, nor inconsistent",
+      "Both contradictory and consistent",
+      "Both logically equivalent and consistent",
+      "Logically equivalent",
+      "Contradictory",
+      "Inconsistent",
+      "Neither logically equivalent nor contradictory, but inconsistent",
+      "Both logically equivalent and contradictory"
+    ],
+    "answer": "G",
+    "answer_index": 6,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-formal_logic"
+  },
+  {
+    "question_id": 11213,
+    "question": "Taurek claims that:",
+    "options": [
+      "the death of two people is always worse than the death of one.",
+      "the death of two people is sometimes less bad than the death of one.",
+      "the death of two people is always exactly as bad as the death of one.",
+      "the notion of the sum of two people\u2019s losses should be rejected."
+    ],
+    "answer": "D",
+    "answer_index": 3,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-philosophy"
+  },
+  {
+    "question_id": 11215,
+    "question": "Most of those who take the externalist approach to meaning view the matter from a _____ standpoint.",
+    "options": [
+      "existentialist",
+      "ideological",
+      "apathetic",
+      "agnostic",
+      "secular",
+      "spiritual",
+      "religious",
+      "philosophical",
+      "pragmatic",
+      "nonreligious"
+    ],
+    "answer": "G",
+    "answer_index": 6,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-philosophy"
+  },
+  {
+    "question_id": 11064,
+    "question": "Plato's suggestion that knowledge is innate or remembered as a result of being triggered by experience is in response to a paradox he sets up for himself.  The paradox, now referred to as Meno's Paradox, has to do with the question of:",
+    "options": [
+      "how anyone can recognize the correct answer to a question without already knowing the answer.",
+      "how the soul can reincarnate if it carries no memory of past lives.",
+      "how knowledge of the Forms can ever be anything other than a generalization of experience.",
+      "how a person can remember anything about the realm of the Forms after the shock of being born into this world.",
+      "how concepts bound to the realm of becoming have meaning only when associated with the realm of Being.",
+      "how a person can possess knowledge without having been taught.",
+      "how a person can forget something they once knew clearly.",
+      "how it is possible to know something that one has not experienced.",
+      "how knowledge can be both innate and learned at the same time.",
+      "how the human mind can conceive of the Forms without physical representation."
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-philosophy"
+  },
+  {
+    "question_id": 11169,
+    "question": " What is the meaning ofsamyak jnanawithin the Jaina traditions?",
+    "options": [
+      "Correct liberation",
+      "Correct understanding",
+      "Correct knowledge",
+      "Correct faith",
+      "Correct conduct",
+      "Correct intiution",
+      "Correct perception",
+      "Correct practice",
+      "Correct meditation",
+      "Correct belief"
+    ],
+    "answer": "F",
+    "answer_index": 5,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-world_religions"
+  },
+  {
+    "question_id": 11140,
+    "question": "The Oral Torah, in its written form, is known as what?",
+    "options": [
+      "Mishnah",
+      "Tanakh",
+      "Talmud",
+      "Pentateuch",
+      "Gemara",
+      "Zohar",
+      "Ketuvim",
+      "Midrash",
+      "Torah Shebichtav",
+      "Nevi'im"
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-world_religions"
+  },
+  {
+    "question_id": 10862,
+    "question": " Use the following key to translate the given formula of PL to natural, English sentences.\nA: Marina reads a Percy Jackson book.\nB: Izzy plays Minecraft.\nC: Emily stops working.\nD: Russell makes dinner.\nE: Ashleigh stops by.\n(A \u2228 ~E) \u2261 (D \u2022 ~B)",
+    "options": [
+      "Either Marina reading a Percy Jackson book or Ashleigh not stopping by is a necessary condition for both Russell not making dinner and Izzy not playing Minecraft.",
+      "Either Marina reads a Percy Jackson book or Ashleigh does not stop by just in case both Russell makes dinner and Izzy doesn't play Minecraft.",
+      "Marina reads a Percy Jackson book or Ashleigh doesn't stop by only if Russell doesn't make dinner and Izzy plays Minecraft.",
+      "Marina reads a Percy Jackson book unless Ashleigh stops by if, and only if, both Russell makes dinner and Izzy doesn't play Minecraft.",
+      "Marina reads a Percy Jackson book or Ashleigh does not stop by only when Russell is making dinner and Izzy is not playing Minecraft.",
+      "Either Marina reads a Percy Jackson book or Ashleigh doesn't stop by whenever Russell makes dinner and Izzy doesn't play Minecraft.",
+      "Marina reading a Percy Jackson book or Ashleigh not stopping by is a necessary condition for Russell not making dinner and Izzy playing Minecraft.",
+      "Either Marina reading a Percy Jackson book or Ashleigh not stopping by is a necessary and sufficient condition for Russell making dinner and Izzy playing Minecraft.",
+      "Either Marina reading a Percy Jackson book or Ashleigh not stopping by is a necessary condition for both Russell making dinner and Izzy not playing Minecraft.",
+      "Either Marina reading a Percy Jackson book or Ashleigh not stopping by is a necessary and sufficient condition for Russell not making dinner and Izzy playing Minecraft."
+    ],
+    "answer": "B",
+    "answer_index": 1,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-formal_logic"
+  },
+  {
+    "question_id": 11279,
+    "question": "Concerning the relationship between morality and theology, Bentham claims that:",
+    "options": [
+      "God exists, but does not concern himself with matters of morality.",
+      "Morality is always aligned with God's will.",
+      "God's will can be determined independently of morality.",
+      "The concept of right and wrong is solely determined by God's will.",
+      "we must first know whether something is right before we can know whether it conforms to God\u2019s will.",
+      "we must first know whether something conforms to God\u2019s will before we can know that it is right.",
+      "There is no correlation between morality and theology.",
+      "God does not exist.",
+      "Morality exists independently of God's will.",
+      "God's will is not related to matters of morality."
+    ],
+    "answer": "E",
+    "answer_index": 4,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-philosophy"
+  },
+  {
+    "question_id": 10811,
+    "question": "Aristotle claims that:",
+    "options": [
+      "vice is in our power, but virtue is not.",
+      "virtue is in our power, and so is vice.",
+      "vice is in our power, and so is virtue.",
+      "both virtue and vice are not in our power.",
+      "virtue is in our power, but vice is not.",
+      "neither virtue nor vice is in our power.",
+      "neither virtue nor vice are within our control.",
+      "virtue is not in our power, but vice is.",
+      "virtue is in our power, but vice is within our control.",
+      "vice is in our power, but virtue is within our control."
+    ],
+    "answer": "B",
+    "answer_index": 1,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-philosophy"
+  },
+  {
+    "question_id": 10887,
+    "question": "So, how long have you been beating your wife?",
+    "options": [
+      "Attacking the Person (ad hominem)",
+      "False Dilemma",
+      "Prejudicial Language",
+      "Appeal to Force"
+    ],
+    "answer": "C",
+    "answer_index": 2,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-logical_fallacies"
+  },
+  {
+    "question_id": 10884,
+    "question": "A valid disjunctive syllogism has which of the following characteristics?",
+    "options": [
+      "The minor premise must either accept an alternative or reject an alternative",
+      "One of the premises is missing",
+      "The major premise must either affirm the antecedent or deny the consequent",
+      "It includes a conjunction in the major premise",
+      "It reaches a contradictory conclusion",
+      "It includes a hypothetical premise",
+      "The major premise must either accept an alternative or reject an alternative",
+      "The minor premise must either affirm the antecedent or deny the consequent",
+      "The minor premise must either accept a conjunction or reject a conjunction",
+      "It reaches a truthful conclusion"
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-logical_fallacies"
+  },
+  {
+    "question_id": 11258,
+    "question": " Select the best translation into predicate logic: No artifacts are people.",
+    "options": [
+      "(\u2200x)(~Ax \u2283 Px)",
+      "(\u2200x)(Px \u2283 ~Ax)",
+      "(\u2200x)(~Ax \u2022 Px)",
+      "~Aa",
+      "(\u2200x)(Px \u2283 Ax)",
+      "(\u2200x)(Ax \u2283 ~Px)",
+      "~Pa",
+      "(\u2200x)(Px \u2022 Ax)",
+      "~Ap",
+      "(\u2200x)(Ax \u2022 ~Px)"
+    ],
+    "answer": "F",
+    "answer_index": 5,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-formal_logic"
+  },
+  {
+    "question_id": 11097,
+    "question": " Which leader is known for spreading the dharma of non-violence?",
+    "options": [
+      "Ashoka",
+      "Nelson Mandela",
+      "Martin Luther King Jr.",
+      "Ngo Dinh Diem",
+      "Adolf Hitler",
+      "Vladimir Putin",
+      "Mother Teresa",
+      "Siddhartha"
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-world_religions"
+  },
+  {
+    "question_id": 10919,
+    "question": " Instead of asking why the act of destroying the environment might be immoral, Hill wants to ask",
+    "options": [
+      "how the decision to preserve the environment benefits the environment.",
+      "how the destruction of the environment affects the economy.",
+      "why people who preserve the environment might be good people.",
+      "how destroying the environment affects future generations.",
+      "why the act of destroying nature might be immoral.",
+      "whether plants have interests.",
+      "why people who destroy the environment might be bad people.",
+      "if destroying the environment is legally punishable.",
+      "whether nature has a right to exist.",
+      "whether animals have rights."
+    ],
+    "answer": "G",
+    "answer_index": 6,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-moral_disputes"
+  },
+  {
+    "question_id": 11163,
+    "question": " Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\n~S \u2228 T\n~S \u00b7 U\n~T \u2228 U / T \u00b7 U",
+    "options": [
+      "Invalid. Counterexample when T is true, and S and U are false",
+      "Invalid. Counterexample when U is true and S and T are false",
+      "Valid",
+      "Valid. No counterexample exists.",
+      "Invalid. Counterexample when S and U are true and T is false",
+      "Invalid. Counterexample when S is true, T and U are false",
+      "Invalid. Counterexample when S, T, and U are true",
+      "Invalid. Counterexample when S is false, T is true, and U is false",
+      "Invalid. Counterexample when S is true, T is false, and U is true",
+      "Invalid. Counterexample when S, T, and U are false"
+    ],
+    "answer": "B",
+    "answer_index": 1,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-formal_logic"
+  },
+  {
+    "question_id": 10939,
+    "question": "According to Hume, reason:",
+    "options": [
+      "should be used to direct our passions.",
+      "should operate completely independently of our passions.",
+      "should be completely suppressed by our passions.",
+      "should be ignored when it comes to our passions.",
+      "should be used to validate our passions.",
+      "should be used to contradict our passions.",
+      "should serve our passions.",
+      "should be used to intensify our passions.",
+      "should be used to rationalize our passions.",
+      "should be used to extinguish our passions."
+    ],
+    "answer": "G",
+    "answer_index": 6,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-philosophy"
+  },
+  {
+    "question_id": 10859,
+    "question": " Which of the following propositions is an immediate (one-step) consequence in PL of the given premises?\n(N \u2283 ~O) \u2283 (O \u2228 Q)\nP \u2283 (N \u2283 ~O)\nN \u2283 P",
+    "options": [
+      "P \u2283 O",
+      "O \u2228 Q",
+      "N \u2283 Q",
+      "O \u2228 P",
+      "~N",
+      "P",
+      "N \u2283 ~O",
+      "P \u2283 Q",
+      "~O \u2228 Q",
+      "~P"
+    ],
+    "answer": "F",
+    "answer_index": 5,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-formal_logic"
+  },
+  {
+    "question_id": 11080,
+    "question": " Which of the given formulas of PL is the best symbolization of the following sentence?\nEither England's not importing beef is a necessary condition for France's subsidizing agriculture, or China promotes human rights if and only if South Africa doesn't supply diamonds.",
+    "options": [
+      "(E \u2283 ~F) \u2228 (S \u2261 ~C)",
+      "(F \u2283 E) \u2228 (C \u2261 ~S)",
+      "(~E \u2283 ~F) \u2228 (C \u2283 S)",
+      "(~F \u2283 E) \u2228 (~C \u2261 S)",
+      "(~F \u2283 ~E) \u2228 (S \u2261 ~C)",
+      "(~E \u2283 F) \u2228 (C \u2283 ~S)",
+      "(F \u2283 ~E) \u2228 (C \u2261 ~S)",
+      "(E \u2283 F) \u2228 (C \u2261 S)",
+      "~(F \u2283 E) \u2228 (~S \u2283 C)",
+      "(F \u2283 E) \u2228 (S \u2261 C)"
+    ],
+    "answer": "G",
+    "answer_index": 6,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-formal_logic"
+  },
+  {
+    "question_id": 11259,
+    "question": " Construct a complete truth table for the following argument. Then, using the truth table, determine whether the argument is valid or invalid. If the argument is invalid, choose an option which presents a counterexample. (There may be other counterexamples as well.)\nM \u2228 N\n~M \u00b7 O / N",
+    "options": [
+      "Valid",
+      "Invalid. Counterexample when M and O are true and N is false",
+      "Invalid. Counterexample when M is true and O and N are false",
+      "Invalid. Counterexample when O is true and M and N are false"
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "philosophy",
+    "src": "ori_mmlu-formal_logic"
+  }
+]

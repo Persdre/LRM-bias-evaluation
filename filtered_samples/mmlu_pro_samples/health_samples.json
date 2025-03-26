@@ -1,0 +1,2012 @@
+[
+  {
+    "question_id": 6159,
+    "question": "The likelihood of an individual in a population carrying two specific alleles of a human DNA marker, each of which has a frequency of 0.2, will be:",
+    "options": [
+      "0.24",
+      "0.4",
+      "0.32",
+      "0.1",
+      "0.16",
+      "0.12",
+      "0.02",
+      "0.04",
+      "0.08",
+      "0.06"
+    ],
+    "answer": "I",
+    "answer_index": 8,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-medical_genetics"
+  },
+  {
+    "question_id": 6351,
+    "question": "The palatine processes begin to fuse at",
+    "options": [
+      "eight weeks post-fertilization.",
+      "fourteen weeks post-fertilization.",
+      "seven weeks post-fertilization.",
+      "twelve weeks post-fertilization.",
+      "four weeks post-fertilization.",
+      "thirteen weeks post-fertilization.",
+      "six weeks post-fertilization.",
+      "ten weeks post-fertilization.",
+      "eleven weeks post-fertilization.",
+      "nine weeks post-fertilization."
+    ],
+    "answer": "H",
+    "answer_index": 7,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-anatomy"
+  },
+  {
+    "question_id": 6453,
+    "question": "Which of the following will increase in vitamin D deficiency?\n",
+    "options": [
+      "The plasma concentration of vitamin B12",
+      "The plasma concentration of prothrombin",
+      "The plasma concentration of preprothrombin",
+      "The plasma activity of acid phosphatase",
+      "The plasma activity of lipase",
+      "The plasma concentration of vitamin C",
+      "The plasma activity of pepsin",
+      "The plasma concentration of insulin",
+      "The plasma activity of amylase",
+      "The plasma activity of alkaline phosphatase"
+    ],
+    "answer": "J",
+    "answer_index": 9,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-nutrition"
+  },
+  {
+    "question_id": 6591,
+    "question": "What three factors regulate stroke volume?",
+    "options": [
+      "Blood volume, preload, and afterload.",
+      "Blood pressure, heart rate, and afterload.",
+      "Afterload, cardiac output, and blood volume.",
+      "Blood pressure, preload, and cardiac output.",
+      "Preload, contractility, and afterload.",
+      "Preload, blood volume, and heart rate.",
+      "Contractility, blood volume, and blood pressure.",
+      "Blood volume, heart rate, and contractility.",
+      "Cardiac output, contractility, and blood volume.",
+      "Contractility, preload, and heart rate."
+    ],
+    "answer": "E",
+    "answer_index": 4,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-clinical_knowledge"
+  },
+  {
+    "question_id": 6410,
+    "question": "The main reason given by men and women for their long lasting marriage is that",
+    "options": [
+      "They have an arranged marriage",
+      "They agree on almost everything",
+      "They have a strong religious belief",
+      "They maintain separate social lives",
+      "They always take vacations together",
+      "They have a common hobby or interest",
+      "They must fulfill their vows",
+      "They owe it to their children",
+      "They are best friends",
+      "They do not believe in divorce"
+    ],
+    "answer": "I",
+    "answer_index": 8,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-human_aging"
+  },
+  {
+    "question_id": 6789,
+    "question": "Which of one of the following statements about the postnatal growth of the maxilla is correct?",
+    "options": [
+      "The maxilla stops growing after the eruption of permanent teeth",
+      "Pneumatisation by enlargement of the developing maxillary sinus ceases at puberty",
+      "Space is created for the eruption of the permanent molars by resorption of the maxillary tuberosity",
+      "The intermaxillary suture closes immediately after birth",
+      "The intermaxillary suture closes about eight years postnatally",
+      "The maxillary sinus decreases in size postnatally",
+      "Space for the eruption of the permanent molars is created by enlargement of the maxillary sinus",
+      "The zygomaticomaxillary sutures contribute to increase in height and length of the maxilla",
+      "The zygomaticomaxillary sutures do not contribute to the growth of the maxilla",
+      "The maxilla does not grow postnatally"
+    ],
+    "answer": "H",
+    "answer_index": 7,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-anatomy"
+  },
+  {
+    "question_id": 6218,
+    "question": "Recombinant alpha-iduronidase is used for the treatment of which disease/syndrome?",
+    "options": [
+      "Sandhoff disease",
+      "Tay-Sachs disease",
+      "Mucolipidosis type IV",
+      "Fabry disease",
+      "Hunter syndrome",
+      "Krabbe disease",
+      "Niemann-Pick disease",
+      "Gaucher disease",
+      "Hurler syndrome",
+      "Pompe disease"
+    ],
+    "answer": "I",
+    "answer_index": 8,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-medical_genetics"
+  },
+  {
+    "question_id": 6243,
+    "question": "A 7-year-old male is brought to the office for evaluation of school problems. The mother says that the teacher has told her that the patient is inattentive, has difficulty following sequential instructions, and often seems to drift off to sleep during class. A polysomnogram reveals obstructive sleep apnea. The most appropriate management is",
+    "options": [
+      "referral to a psychiatrist",
+      "heart rate and apnea monitoring",
+      "imipramine",
+      "elevation of the head of the bed",
+      "speech therapy",
+      "prescription of stimulant medication",
+      "prescription of sleeping pills",
+      "surgical evaluation",
+      "administration of caffeine",
+      "use of a humidifier"
+    ],
+    "answer": "H",
+    "answer_index": 7,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-professional_medicine"
+  },
+  {
+    "question_id": 6049,
+    "question": "What proportion of vegans is likely to be deficient in vitamin B12?\n",
+    "options": [
+      "66%",
+      "50%",
+      "3%",
+      "85%",
+      "10%",
+      "75%",
+      "15%",
+      "20%",
+      "5%",
+      "32%"
+    ],
+    "answer": "J",
+    "answer_index": 9,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-nutrition"
+  },
+  {
+    "question_id": 6579,
+    "question": "How many kcal are there in one gram of ethanol?\n",
+    "options": [
+      "37.6 kJ or 9.0 kcal per g",
+      "15.6 kJ or 3.7 kcal per g",
+      "23.5 kJ or 5.8 kcal per g",
+      "31.5 kJ or 7.5 kcal per g",
+      "19.7 kJ or 4.1 kcal per g",
+      "36.5 kJ or 8.1 kcal per g",
+      "28.4 kJ or 6.8 kcal per g",
+      "29.7 kJ or 7.1 kcal per g",
+      "33.3 kJ or 7.9 kcal per g",
+      "22.9 kJ or 5.5 kcal per g"
+    ],
+    "answer": "H",
+    "answer_index": 7,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-nutrition"
+  },
+  {
+    "question_id": 6459,
+    "question": "The basic code of ethical research (respect for persons, beneficence, and justice) was first established by the:",
+    "options": [
+      "World Medical Association (WMA)",
+      "United Nations Educational, Scientific and Cultural Organization (UNESCO)",
+      "Geneva Convention",
+      "World Health Organization (WHO)",
+      "Declaration of Helsinki",
+      "Nuremberg Code",
+      "CIOMS",
+      "International Committee of Medical Journal Editors (ICMJE)",
+      "Belmont Report",
+      "American Psychological Association (APA)"
+    ],
+    "answer": "I",
+    "answer_index": 8,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-virology"
+  },
+  {
+    "question_id": 6381,
+    "question": "Which vitamin is required for calcium absorption from the small intestine?\n",
+    "options": [
+      "Vitamin B2",
+      "Vitamin C",
+      "Vitamin B12",
+      "Vitamin D",
+      "Vitamin A",
+      "Vitamin E",
+      "Vitamin B1",
+      "Vitamin F",
+      "Vitamin K",
+      "Vitamin B6"
+    ],
+    "answer": "D",
+    "answer_index": 3,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-nutrition"
+  },
+  {
+    "question_id": 6691,
+    "question": "A 32-year-old man and his 29-year-old wife come to the office for evaluation for infertility. The wife's gynecologist has reported that her anatomic and physiologic evaluation disclosed no abnormalities and that assessment of potential male factors is needed. The husband is 188 cm (6 ft 3 in) tall with fair skin and little facial hair. He has mild gynecomastia and small, firm testicles. No sperm are seen on semen analysis. Which of the following tests is most likely to establish the underlying cause of this couple's infertility?",
+    "options": [
+      "Serum cortisol concentration",
+      "Serum parathyroid hormone concentration",
+      "Prostate-specific antigen test",
+      "Semen fructose concentration",
+      "Thyroid function test",
+      "Serum prolactin concentration",
+      "Serum follicle-stimulating hormone and luteinizing hormone concentrations",
+      "Serum estrogen and testosterone concentrations",
+      "Adrenal function test",
+      "Karyotype from peripheral leukocytes"
+    ],
+    "answer": "J",
+    "answer_index": 9,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-professional_medicine"
+  },
+  {
+    "question_id": 6577,
+    "question": "Which statement about protein digestion and absorption is most correct?\n",
+    "options": [
+      "The products of protein digestion may be absorbed as free amino acids or as di- or tripeptides",
+      "Protein digestion and absorption does not involve any brush-border enzymes.",
+      "Protein digestion only takes place in the stomach",
+      "The products of digestion of dietary protein by luminal and brush-border enzymes are only absorbed by one of the 14 different amino acid transporters",
+      "Gastric digestion of all proteins is equally efficient because of the grinding action of the antrum",
+      "Gastric zymogenic (chief) cells produce and secrete amylase, this initiates the process of protein digestion",
+      "Gastric zymogenic (chief) cells produce and secrete chymotrypsin, elastase and carboxypeptidase A and this initiates the process of protein digestion",
+      "Gastric digestion of all proteins is less efficient due to the grinding action of the antrum",
+      "All products of dietary protein digestion are absorbed by the same amino acid transporter",
+      "The products of protein digestion are only absorbed as di- or tripeptides"
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-nutrition"
+  },
+  {
+    "question_id": 6085,
+    "question": "Blood clots are responsible for repeatedly blocking a catheter. What should you do?",
+    "options": [
+      "Use a syringe to remove the clot.",
+      "Remove the catheter and recatheterize.",
+      "Replace the catheter with a new one without informing medical staff.",
+      "Inform the patient's family.",
+      "Inform the patient.",
+      "Ignore it and continue with the procedure.",
+      "Flush the catheter with saline.",
+      "Inform medical staff.",
+      "Repeatedly press the catheter to remove the clot."
+    ],
+    "answer": "H",
+    "answer_index": 7,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-clinical_knowledge"
+  },
+  {
+    "question_id": 6002,
+    "question": "Which disease do polyomaviruses predominantly cause?",
+    "options": [
+      "Tumours",
+      "Brain pathology",
+      "No disease at all",
+      "Kidney infections"
+    ],
+    "answer": "C",
+    "answer_index": 2,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-virology"
+  },
+  {
+    "question_id": 6780,
+    "question": "With respect to hair loss",
+    "options": [
+      "Men lose hair more frequently but more slowly than women",
+      "Men and women lose hair equally and at the same rate",
+      "Environmental factors are the main causes",
+      "Women are more systematic than men",
+      "Hormonal changes are the only cause of hair loss",
+      "Women lose hair less frequently but more rapidly than men",
+      "Men lose but women do not",
+      "Women lose hair at the same rate as men",
+      "Hair loss is not influenced by gender",
+      "Men are more systematic than women"
+    ],
+    "answer": "J",
+    "answer_index": 9,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-human_aging"
+  },
+  {
+    "question_id": 6418,
+    "question": "You notice that your patient's submandibular lymph nodes are enlarged. You would look for potential infection sites in the",
+    "options": [
+      "hard palate.",
+      "hard palate, upper lip, and upper central incisor.",
+      "upper lip and upper central incisor.",
+      "hard palate, upper lip, and lower first molar.",
+      "hard palate and upper lip.",
+      "hard palate, upper lip and upper central incisor.",
+      "hard palate, upper central incisor and lower first molar.",
+      "hard palate, upper lip, upper central incisor and lower first molar.",
+      "upper lip and lower first molar.",
+      "upper lip, upper central incisor and lower first molar."
+    ],
+    "answer": "H",
+    "answer_index": 7,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-anatomy"
+  },
+  {
+    "question_id": 6234,
+    "question": "A 77-year-old female presents to the office for evaluation of a syncopal event that occurred while she was walking. Cardiac examination reveals a grade 3/6\u00a0systolic murmur, heard best at the right upper sternal border. There is radiation of the murmur into the neck. The valvular abnormality that most likely caused this episode is",
+    "options": [
+      "bicuspid aortic valve",
+      "aortic insufficiency",
+      "mitral valve prolapse",
+      "tricuspid stenosis",
+      "mitral regurgitation",
+      "pulmonary regurgitation",
+      "aortic stenosis",
+      "pulmonary stenosis",
+      "tricuspid regurgitation",
+      "mitral stenosis"
+    ],
+    "answer": "G",
+    "answer_index": 6,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-professional_medicine"
+  },
+  {
+    "question_id": 6357,
+    "question": "A 37-year-old woman with right lower extremity edema is evaluated because of the sudden onset of shortness of breath and pleuritic chest pain. A diagnosis of pulmonary embolism is made. Which of the following signs, if present on physical examination, would be the most specific indicator of pulmonary arterial hypertension in this patient?",
+    "options": [
+      "Blue lips or skin",
+      "Peripheral edema",
+      "Rapid heart rate",
+      "Constant chest pain",
+      "Presence of an S3",
+      "Wheezing or whistling sound when breathing",
+      "Shortness of breath after slight activity",
+      "P2 louder than A2",
+      "Increased jugular venous pressure",
+      "Coughing up blood"
+    ],
+    "answer": "H",
+    "answer_index": 7,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-professional_medicine"
+  },
+  {
+    "question_id": 6643,
+    "question": "What is the most common way for a virus to kill a cell?",
+    "options": [
+      "Directly destroys the cell nucleus",
+      "Fragments cellular DNA",
+      "Depletes the cell's energy resources",
+      "Changes the cell's genetic code",
+      "Dissolves the cellular membrane",
+      "Prevents cell division by blocking mitosis",
+      "Introduces toxic substances into the cell",
+      "Causes the cell to explode through rapid replication",
+      "Induces apoptosis via caspases",
+      "Totally blocks cellular transcription"
+    ],
+    "answer": "I",
+    "answer_index": 8,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-virology"
+  },
+  {
+    "question_id": 6702,
+    "question": "Which of the following amino acids cannot provide a substrate for gluconeogenesis?\n",
+    "options": [
+      "Tryptophan",
+      "Methionine",
+      "Alanine",
+      "Glutamine",
+      "isoleucine",
+      "Histidine",
+      "Threonine",
+      "Arginine",
+      "Leucine",
+      "Valine"
+    ],
+    "answer": "I",
+    "answer_index": 8,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-nutrition"
+  },
+  {
+    "question_id": 6548,
+    "question": "A healthy 4-year-old girl is brought for a well-child examination. A grade 2/6 systolic ejection murmur is heard along the upper left sternal border. S2 is widely split and does not vary with respiration. A soft mid-diastolic murmur is heard along the lower left sternal border. Examination shows no other abnormalities. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Mitral valve prolapse",
+      "Tricuspid atresia",
+      "Transposition of the great arteries",
+      "Tetralogy of Fallot",
+      "Atrial septal defect",
+      "Ventricular septal defect",
+      "Coarctation of the aorta",
+      "Mitral regurgitation",
+      "Aortic stenosis",
+      "Pulmonary stenosis"
+    ],
+    "answer": "E",
+    "answer_index": 4,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-professional_medicine"
+  },
+  {
+    "question_id": 6637,
+    "question": "The amount and composition of dietary fat are important factors for influencing blood lipid metabolism. Which of the following statements is correct?\n",
+    "options": [
+      "Replacement of saturated fatty acids with n-3 polyunsaturated fatty acids is associated with an increase in plasma triglyceride concentrations",
+      "Replacement of saturated fatty acids with monounsaturated fatty acids is associated with a decrease in HDL cholesterol",
+      "Replacement of saturated fatty acids with large amounts of carbohydrate is associated with decreased LDL and increased plasma triglyceride concentrations",
+      "Replacement of saturated fatty acids with monounsaturated fatty acids is associated with an increase in LDL cholesterol",
+      "Consumption of soluble dietary fibre and plant stanols/sterols is associated with a significant increases in LDL cholesterol"
+    ],
+    "answer": "C",
+    "answer_index": 2,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-nutrition"
+  },
+  {
+    "question_id": 6766,
+    "question": "Which of the following is not a function of vitamin A\n",
+    "options": [
+      "Synthesis of the blood clotting proteins",
+      "Prevention of bone loss",
+      "Regulation of gene expression and cell differentiation",
+      "Boosting immune system function"
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-nutrition"
+  },
+  {
+    "question_id": 6424,
+    "question": "In a patient with a normal healthy mouth, you would expect the mucosa covering the alveolar process supporting the mandibular teeth to be",
+    "options": [
+      "light pink below the mucogingival junction and red above it.",
+      "Dark pink below the mucogingival junction and red above it.",
+      "red below the mucogingival junction and light pink above it.",
+      "White below the mucogingival junction and red above it.",
+      "Light pink below the mucogingival junction and white above it.",
+      "light pink in colour on both sides of the mucogingigival junction.",
+      "Dark pink on both sides of the mucogingival junction.",
+      "red on both sides of the mucogingival junction.",
+      "Dark pink below the mucogingival junction and light pink above it."
+    ],
+    "answer": "C",
+    "answer_index": 2,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-anatomy"
+  },
+  {
+    "question_id": 6345,
+    "question": "Tay-Sachs disease is caused by deficiency of _________________?",
+    "options": [
+      "Alpha-L-iduronidase",
+      "Arylsulfatase A",
+      "Hexosaminidase B",
+      "Glucose-6-phosphatase",
+      "Lysosomal alpha-glucosidase",
+      "Hexosaminidase A",
+      "Glucocerebrosidase",
+      "Homogentisic acid oxidase",
+      "Galactosidase Alpha",
+      "Alpha-galactosidase A"
+    ],
+    "answer": "F",
+    "answer_index": 5,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-medical_genetics"
+  },
+  {
+    "question_id": 6811,
+    "question": "Which statement about absorption from the gastro-intestinal (GI) tract is most correct?\n",
+    "options": [
+      "The absorption of glucose is associated with sodium uptake.",
+      "Fructose is absorbed more rapidly than glucose.",
+      "Galactose and fructose are absorbed by the same transporter at the brush border membrane.",
+      "Most water absorption along the GI tract occurs in the colon."
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-nutrition"
+  },
+  {
+    "question_id": 6423,
+    "question": "Parasympathetic preganglionic nerves leave the central nervous system with the",
+    "options": [
+      "eighth cranial nerves.",
+      "second cranial nerves.",
+      "first cranial nerves.",
+      "fifth cranial nerves.",
+      "sixth cranial nerves.",
+      "fourth cranial nerves.",
+      "third cranial nerves."
+    ],
+    "answer": "G",
+    "answer_index": 6,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-anatomy"
+  },
+  {
+    "question_id": 6105,
+    "question": "A 67-year-old man with Parkinson disease is admitted to the hospital for treatment of pneumonia. The patient's daughter, who is visiting the patient, says he has had increased lethargy for the past day and decreased ambulation during the past 6 months. She also says that there are times during the day when his tremors increase in severity, although he continues to care for himself at home. Medical history is also remarkable for hypertension. Medications include hydrochlorothiazide, atenolol, levodopa, and carbidopa. He is 168 cm (5 ft 6 in) tall and weighs 78 kg (172 lb); BMI is 28 kg/m2 . Vital signs are temperature 38.9\u00b0C (102.0\u00b0F), pulse 60/min supine and 68/min standing, respirations 22/min, and blood pressure 100/60 mm Hg supine and 80/50 mm Hg standing. The patient appears ill and older than his stated age. He is fully oriented but lethargic. Auscultation of the chest discloses rhonchi in the right mid lung field. Abdominal examination discloses no abnormalities. Neurologic examination discloses masked facies, bradykinesia, and cogwheel rigidity; gait was not assessed on admission. Chest x-ray shows a right lower lobe infiltrate. ECG shows no abnormalities. Appropriate intravenous antibiotic therapy is initiated. Prior to discharge, which of the following is the most appropriate step?",
+    "options": [
+      "Begin corticosteroid treatment",
+      "Place a percutaneous endoscopic gastrostomy (PEG) tube",
+      "Administer influenza vaccine",
+      "Prescribe fludrocortisone",
+      "Discontinue levodopa and carbidopa",
+      "Arrange for home oxygen therapy",
+      "Initiate physical therapy",
+      "Obtain CT scan of the chest",
+      "Obtain a swallowing evaluation",
+      "Start patient on anticoagulant therapy"
+    ],
+    "answer": "I",
+    "answer_index": 8,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-professional_medicine"
+  },
+  {
+    "question_id": 6298,
+    "question": "The proportion of babies that have an abnormality identifiable at birth is _____.",
+    "options": [
+      "1 in 100",
+      "1 in 50",
+      "1 in 5",
+      "1 in 10",
+      "1 in 1000",
+      "1 in 20",
+      "1 in 25",
+      "1 in 200",
+      "1 in 40",
+      "1 in 500"
+    ],
+    "answer": "I",
+    "answer_index": 8,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-medical_genetics"
+  },
+  {
+    "question_id": 6732,
+    "question": "Those more likely to experience depression after a loss are those who",
+    "options": [
+      "Have a strong social support network",
+      "Have no previous history of mental health issues",
+      "Have not previously experienced depression",
+      "Have a high income",
+      "Have been married less than a year",
+      "Are young survivors",
+      "Are in good health"
+    ],
+    "answer": "F",
+    "answer_index": 5,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-human_aging"
+  },
+  {
+    "question_id": 5,
+    "question": "Which of the following is the body cavity that contains the pituitary gland?",
+    "options": [
+      "Ventral",
+      "Dorsal",
+      "Buccal",
+      "Thoracic",
+      "Pericardial",
+      "Abdominal",
+      "Spinal",
+      "Pelvic",
+      "Pleural",
+      "Cranial"
+    ],
+    "answer": "J",
+    "answer_index": 9,
+    "cot_content": "A: Let's think step by step. We refer to Wikipedia articles on anatomy for help. Let\u2019s solve this problem step by step. The pituitary gland is the major endocrine gland attached to the base of the brain, and it is contained in the Cranial cavity. The answer is (J).",
+    "category": "health",
+    "src": "cot_lib-anatomy"
+  },
+  {
+    "question_id": 6484,
+    "question": "Which of the following structures accompany the oesophagus through the diaphragm?",
+    "options": [
+      "The radial nerves",
+      "The sciatic nerves",
+      "The splanchnic nerves",
+      "The phrenic nerves",
+      "The spinal nerves",
+      "The vagus nerves",
+      "The optic nerves",
+      "The cranial nerves",
+      "The sympathetic trunks",
+      "The ulnar nerves"
+    ],
+    "answer": "F",
+    "answer_index": 5,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-anatomy"
+  },
+  {
+    "question_id": 6217,
+    "question": "Zinc finger proteins and helix-turn-helix proteins are",
+    "options": [
+      "involved in the synthesis of ATP",
+      "types of RNA-binding proteins",
+      "part of the hemoglobin in blood cells",
+      "involved in the control of translation",
+      "components of the cell's cytoskeleton",
+      "components of the cell membrane",
+      "types of DNA-binding proteins",
+      "components of ribosomes",
+      "types of lipid-binding proteins"
+    ],
+    "answer": "G",
+    "answer_index": 6,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-medical_genetics"
+  },
+  {
+    "question_id": 6572,
+    "question": "Which of the following is true about the diagnosis of \"osteopenia\" or \"osteoporosis\" in North America and Western Europe\n",
+    "options": [
+      "Women under age 50 are more likely to have osteoporosis than osteopenia",
+      "More than 50% of men over age 50 have osteopenia",
+      "Osteoporosis is defined as a bone density lower than 2.5 standard deviations below the average for age-matched controls.",
+      "Women over age 80 with osteopenia have above average bone mineral density for their age",
+      "Fewer than 10% of women over age 50 have osteopenia",
+      "Osteopenia is defined as a bone density lower than 1 standard deviation below the average for age-matched controls",
+      "Osteoporosis is less common in North America compared to Western Europe",
+      "Fewer than 50% of women over age 80 have osteopenia or osteoporosis",
+      "Osteopenia is more common in men than in women"
+    ],
+    "answer": "D",
+    "answer_index": 3,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-nutrition"
+  },
+  {
+    "question_id": 6375,
+    "question": "A previously healthy 27-year-old nulligravid woman comes to the emergency department because of a 2-day history of moderate-to-severe pain and swelling of the left labia. She is sexually active and uses condoms inconsistently. Her temperature is 37.2\u00b0C (99\u00b0F), pulse is 92/min, respirations are 18/min, and blood pressure is 115/75 mm Hg. Pelvic examination shows a 4 x 3-cm, tender, fluctuant mass medial to the left labium majus compromising the introital opening. Which of the following is the most appropriate next step in management?",
+    "options": [
+      "Administration of intravenous vancomycin",
+      "Incision and drainage",
+      "Administration of intravenous ceftriaxone",
+      "Administration of intravenous metronidazole",
+      "Observation and re-evaluation in 24 hours",
+      "Administration of oral antibiotics",
+      "Administration of intravenous penicillin G",
+      "Ultrasound-guided needle aspiration of the mass",
+      "Initiation of antiviral therapy",
+      "Surgical excision of the mass"
+    ],
+    "answer": "B",
+    "answer_index": 1,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-professional_medicine"
+  },
+  {
+    "question_id": 6557,
+    "question": "Five years after being shot in the right thigh, a 21-year-old man comes to the emergency department because of a buzzing sensation adjacent to the scar. At the time of the initial wound, he was discharged after 6 hours of observation with no fractures or soft-tissue swelling. A loud murmur is heard on auscultation; there is a thrill. He has dilated varicose veins with incompetent valves in the lower leg. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Occlusion of the superficial femoral artery",
+      "Venous ulcer",
+      "Superficial venous thrombosis",
+      "Arteriovenous fistula",
+      "Lymphedema",
+      "Chronic venous insufficiency",
+      "Arterial spasm",
+      "Pulmonary embolism",
+      "Deep venous thrombosis",
+      "Peripheral artery disease"
+    ],
+    "answer": "D",
+    "answer_index": 3,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-professional_medicine"
+  },
+  {
+    "question_id": 6263,
+    "question": "What is the definition of overweight?\n",
+    "options": [
+      "BMI 22-26 kg/m2",
+      "BMI 23-27 kg/m2",
+      "BMI 25-30 kg/m2",
+      "BMI > 30 kg/m2",
+      "BMI 24-28 kg/m2",
+      "BMI 26-30 kg/m2",
+      "BMI 25-29.9 kg/m2",
+      "BMI > 25 kg/m2",
+      "BMI 20-25 kg/m2",
+      "BMI = 25 kg/m2"
+    ],
+    "answer": "G",
+    "answer_index": 6,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-nutrition"
+  },
+  {
+    "question_id": 6683,
+    "question": "A 22-year-old male presents to the office with a\u00a05-day\u00a0history of diarrhea after completing his third course of antibiotics for mastoiditis. Physical examination reveals vague generalized abdominal pain on palpation. Culture on hektoen enteric agar is positive. The most likely etiologic agent causing the diarrhea is",
+    "options": [
+      "Clostridium difficile",
+      "Entamoeba histolytica",
+      "Vibrio cholerae",
+      "Escherichia coli",
+      "Staphylococcus aureus",
+      "Campylobacter jejuni",
+      "Giardia lamblia",
+      "Salmonella typhi",
+      "Yersinia enterocolitica",
+      "Shigella dysenteriae"
+    ],
+    "answer": "H",
+    "answer_index": 7,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-professional_medicine"
+  },
+  {
+    "question_id": 6655,
+    "question": "Presbyopia refers to",
+    "options": [
+      "The point of clearest vision moving randomly from the eye",
+      "The decline in vision with advanced age",
+      "The loss of taste as one grows older",
+      "The point of clearest vision moving farther from the eye",
+      "The increase in hearing sensitivity as one grows older",
+      "The point of clearest vision remaining at the same distance from the eye",
+      "The improvement in vision with advanced age",
+      "The loss of hearing for higher pitch as one grows older",
+      "The loss of hearing for lower pitch as one grows older",
+      "The point of clearest vision moving closer to the eye"
+    ],
+    "answer": "D",
+    "answer_index": 3,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-human_aging"
+  },
+  {
+    "question_id": 6719,
+    "question": "All of the following are true regarding the function of neurons EXCEPT:",
+    "options": [
+      "The refractory period prevents the neuron from initiating a new action potential.",
+      "The transmitting neuron secretes neurotransmitters into the synaptic cleft from its dendrites.",
+      "An action potential is initiated when the axon hillock reaches the threshold potential.",
+      "The action potential travels along the axon away from the cell body.",
+      "Hyperpolarization occurs when the membrane potential becomes more negative than the resting potential.",
+      "The flow of sodium into the neuron depolarizes the membrane in the first phase of an action potential.",
+      "Hyperpolarization at the end of an action potential is one mechanism by which neurons limit the rate at which action potentials may fire.",
+      "The neuron releases neurotransmitters into the synaptic cleft from the axon terminals."
+    ],
+    "answer": "B",
+    "answer_index": 1,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-college_medicine"
+  },
+  {
+    "question_id": 6288,
+    "question": "Bu is often late for appointments but says it's because she had more important things on her mind. This is an example of which coping strategy?",
+    "options": [
+      "Projection",
+      "Regression",
+      "Immunization",
+      "Assimilation",
+      "Avoidance",
+      "Displacement",
+      "Denial",
+      "Accommodation",
+      "Sublimation"
+    ],
+    "answer": "C",
+    "answer_index": 2,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-human_aging"
+  },
+  {
+    "question_id": 6395,
+    "question": "Which of the following is the commonest cause of dementia in the UK?",
+    "options": [
+      "Vascular dementia.",
+      "Lewy body dementia.",
+      "Cerebrovascular (stroke) disease.",
+      "Alzheimer's disease.",
+      "HIV infection.",
+      "Frontotemporal dementia.",
+      "Parkinson's disease.",
+      "Chronic traumatic encephalopathy.",
+      "Creutzfeldt-Jakob disease.",
+      "Huntington's disease."
+    ],
+    "answer": "D",
+    "answer_index": 3,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-clinical_knowledge"
+  },
+  {
+    "question_id": 6362,
+    "question": "A 65-year-old man who is quadriplegic as a result of multiple sclerosis is hospitalized for treatment of left lower lobe pneumonia. His temperature is 38.1\u00b0C (100.5\u00b0F), pulse is 95/min, respirations are 12/min, and blood pressure is 120/80 mm Hg. He appears malnourished. Rhonchi are heard at the left lower lobe of the lung on auscultation. Examination of the heart, lymph nodes, abdomen, and extremities shows no abnormalities. There is a 1-cm area of erythema over the sacrum with intact skin and no induration. Neurologic examination shows quadriparesis. Test of the stool for occult blood is negative. Which of the following is the most effective intervention for this patient's skin lesion?",
+    "options": [
+      "Topical antibiotic ointment",
+      "Radiation therapy",
+      "Antifungal treatment",
+      "Broad-spectrum antibiotic therapy",
+      "Corticosteroid cream application",
+      "Use of wet to dry dressings",
+      "Surgical debridement",
+      "Frequent turning",
+      "Cryotherapy",
+      "Whirlpool therapy"
+    ],
+    "answer": "H",
+    "answer_index": 7,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-professional_medicine"
+  },
+  {
+    "question_id": 6674,
+    "question": "A 30-year-old nulliparous female presents to the office with the complaint of mood changes. She says that for the past several months she has been anxious, hyperactive, and unable to sleep 3 to 4\u00a0days prior to the onset of menses. She further reports that on the day her menses begins she becomes acutely depressed, anorectic, irritable, and lethargic. She has no psychiatric history. Physical examination findings are normal. She and her husband have been trying to conceive for over 2\u00a0years. History reveals a tuboplasty approximately 1\u00a0year ago to correct a closed fallopian tube. The most likely diagnosis is",
+    "options": [
+      "generalized anxiety disorder",
+      "bipolar I disorder, mixed",
+      "Premenstrual dysphoric disorder",
+      "cyclothymic personality",
+      "Persistent depressive disorder (dysthymia)",
+      "Post-traumatic stress disorder",
+      "Seasonal affective disorder",
+      "Bipolar II disorder",
+      "adjustment disorder with depressed mood",
+      "Major depressive disorder"
+    ],
+    "answer": "I",
+    "answer_index": 8,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-professional_medicine"
+  },
+  {
+    "question_id": 6361,
+    "question": "A 36-year-old man comes to the office because of headaches that began 2 weeks ago. The headaches are moderately severe, are present when he awakens in the morning, and are relieved with over-the-counter analgesics. He has no prior history of headaches. He tells you he was promoted to an upper-level managerial position in his accounting firm about 8 months ago, which necessitated relocating. Physical examination now discloses no abnormalities except for blurring of the optic disc margins bilaterally. Which of the following is the most appropriate next step?",
+    "options": [
+      "Refer him for consultation with an ophthalmologist",
+      "Begin a trial of a \u03b2-blocking medication",
+      "Begin a trial of an anti-inflammatory medication",
+      "Refer him for consultation with a psychiatrist",
+      "Prescribe over-the-counter analgesics for long term use",
+      "Refer him for consultation with a neurologist",
+      "Order CT scan of the head",
+      "Advise him to reduce stress and monitor symptoms",
+      "Order MRI of the head",
+      "Order EEG"
+    ],
+    "answer": "G",
+    "answer_index": 6,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-professional_medicine"
+  },
+  {
+    "question_id": 6208,
+    "question": "An expected side effect of creatine supplementation is:",
+    "options": [
+      "improved vision.",
+      "loss of appetite.",
+      "improved cognitive function.",
+      "decrease in body mass.",
+      "muscle weakness.",
+      "increased heart rate.",
+      "muscle cramps.",
+      "hair loss.",
+      "gain in body mass.",
+      "loss of electrolytes."
+    ],
+    "answer": "I",
+    "answer_index": 8,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-clinical_knowledge"
+  },
+  {
+    "question_id": 6664,
+    "question": "A 13-year-old girl is brought to the office for a health maintenance visit. She was diagnosed with Turner syndrome in infancy during a work-up for coarctation of the aorta. During today's visit, her mother reports that the girl has been talking about babies. You have been the patient's physician for the past 6 years and know she is prepubescent. It is most appropriate to counsel the patient that if she wishes to have a family she will need to do which of the following?",
+    "options": [
+      "Receive a uterus transplant",
+      "Undergo embryo donation",
+      "Seek in-vitro fertilization",
+      "Seek surrogate motherhood",
+      "Have amniocentesis if she gets pregnant",
+      "Have an operation",
+      "Receive genetic counseling",
+      "Undergo egg donation",
+      "Adopt",
+      "Undergo hormone therapy"
+    ],
+    "answer": "I",
+    "answer_index": 8,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-professional_medicine"
+  },
+  {
+    "question_id": 6641,
+    "question": "What is the biggest risk factor for infection with Ebola?",
+    "options": [
+      "Working in a category IV laboratory",
+      "Attending a funeral of a victim outside",
+      "Nursing a patient at home",
+      "Attending football matches or large gatherings"
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-virology"
+  },
+  {
+    "question_id": 6743,
+    "question": "The regional lymphatic drainage of the left side of the tip of the tongue is to the",
+    "options": [
+      "left submental lymph node.",
+      "bilateral cervical lymph nodes.",
+      "left cervical lymph node.",
+      "left and right submandibular lymph nodes.",
+      "right submandibular lymph node.",
+      "left and right cervical lymph nodes.",
+      "left submandibular lymph node.",
+      "left and right submental lymph nodes.",
+      "left cervical lymph node and right submandibular lymph node.",
+      "right submental lymph node."
+    ],
+    "answer": "H",
+    "answer_index": 7,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-anatomy"
+  },
+  {
+    "question_id": 6672,
+    "question": "An investigator is studying the incidence of the common cold among medical students at various time points during the school year. Results show an increased incidence of upper respiratory tract infections among these students during finals week. It is hypothesized that the stress of studying for examinations adversely affects the immune system, making the students more susceptible to infection. Which of the following laboratory findings in these students during examination week is most likely to support this hypothesis?",
+    "options": [
+      "Decreased lymphocyte count",
+      "Decreased basophil count",
+      "Decreased macrophage activity",
+      "Increased AM serum cortisol concentration",
+      "Increased macrophage activity",
+      "Decreased neutrophil count",
+      "Decreased AM serum cortisol concentration",
+      "Increased eosinophil count",
+      "Increased lymphocyte count",
+      "Increased basophil count"
+    ],
+    "answer": "C",
+    "answer_index": 2,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-professional_medicine"
+  },
+  {
+    "question_id": 6408,
+    "question": "About how many grieving individuals seem to require some professional help?",
+    "options": [
+      "Nearly one-third",
+      "Roughly 90%",
+      "Almost all",
+      "Less than 10%",
+      "About 15%",
+      "About 25%",
+      "Nearly half",
+      "Approximately 60%",
+      "About 75%",
+      "More than 50%"
+    ],
+    "answer": "F",
+    "answer_index": 5,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-human_aging"
+  },
+  {
+    "question_id": 6406,
+    "question": "The largest proportion of older adults living alone reside in",
+    "options": [
+      "Massachusetts",
+      "California",
+      "Oregon",
+      "Florida",
+      "Michigan",
+      "Alaska",
+      "Washington, DC",
+      "New York",
+      "Hawaii",
+      "Texas"
+    ],
+    "answer": "G",
+    "answer_index": 6,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-human_aging"
+  },
+  {
+    "question_id": 6383,
+    "question": "Which of these factors is associated with an increase in the risk for prostate cancer?\n",
+    "options": [
+      "Alcohol",
+      "Consumption of dairy products",
+      "Drinking green tea",
+      "Dietary fat",
+      "Low carbohydrate diet",
+      "Regular exercise",
+      "Insulin-like growth factor-1",
+      "Vitamin C intake",
+      "High protein diet",
+      "Salt"
+    ],
+    "answer": "G",
+    "answer_index": 6,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-nutrition"
+  },
+  {
+    "question_id": 6774,
+    "question": "What is the morphology of the Dane particle?",
+    "options": [
+      "Spherical with a lipid membrane",
+      "Numerous small particles",
+      "Lipid membrane free icosahedron",
+      "Double shelled icosahedron",
+      "Flexuous and filamentous morphology",
+      "Double shelled dodecahedron",
+      "Amorphous and irregular morphology",
+      "Numerous large particles",
+      "Cylindrical and filamentous morphology"
+    ],
+    "answer": "E",
+    "answer_index": 4,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-virology"
+  },
+  {
+    "question_id": 6044,
+    "question": "A 16-year-old boy is admitted to the emergency department because of a knife wound to the left side of his chest. An x-ray of the chest shows an air-fluid level in the left side of the chest, partial collapse of the left lung, and elevation of the stomach bubble. The mediastinum is in the midline. Which of the following is the most likely diagnosis?",
+    "options": [
+      "Rib fracture",
+      "Hemopneumothorax, not under tension",
+      "Flail chest",
+      "Pneumothorax, not under tension",
+      "Cardiac tamponade",
+      "Tension pneumothorax",
+      "Pulmonary contusion",
+      "Tension hemopneumothorax",
+      "Hemothorax, not under tension",
+      "Pleural effusion"
+    ],
+    "answer": "B",
+    "answer_index": 1,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-professional_medicine"
+  },
+  {
+    "question_id": 6659,
+    "question": "Which of the following disorders is not suitable for population carrier screening?",
+    "options": [
+      "Thalassemia",
+      "Huntington's disease",
+      "Sickle cell disease",
+      "Duchenne muscular dystrophy",
+      "Spinal muscular atrophy",
+      "Hemophilia A",
+      "Oculocutaneous albinism",
+      "Fragile X syndrome",
+      "Cystic fibrosis",
+      "Tay-Sachs disease"
+    ],
+    "answer": "G",
+    "answer_index": 6,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-medical_genetics"
+  },
+  {
+    "question_id": 6427,
+    "question": "Parasympathetic preganglionic axons leave the CNS with the",
+    "options": [
+      "cervical spinal nerves.",
+      "optometric nerves.",
+      "lumbar spinal nerves.",
+      "hypoglossal nerves.",
+      "olfactory nerves.",
+      "trigeminal nerves.",
+      "sacral spinal nerves.",
+      "spinal accessory nerves.",
+      "thoracic spinal nerves."
+    ],
+    "answer": "G",
+    "answer_index": 6,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-anatomy"
+  },
+  {
+    "question_id": 6089,
+    "question": "Which of the following is true about the carpal tunnel syndrome?",
+    "options": [
+      "It causes numbness in the entire arm",
+      "It can be caused by rheumatoid arthritis",
+      "It can be cured by applying ice to the wrist",
+      "It is caused by compression of the radial nerve",
+      "It is a degenerative condition with no known cure",
+      "It is caused exclusively by overuse of the wrist",
+      "It can only be treated with surgery",
+      "Paraesthesia is worse during the day",
+      "It causes pain and tingling in the medial three and half digits",
+      "It is caused by compression of the ulna nerve"
+    ],
+    "answer": "B",
+    "answer_index": 1,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-clinical_knowledge"
+  },
+  {
+    "question_id": 6576,
+    "question": "Which statement about protein digestion and absorption is most correct?\n",
+    "options": [
+      "The products of protein digestion may be absorbed as free amino acids or as di- or tripeptides",
+      "Gastric digestion of all proteins is equally efficient because of the grinding action of the antrum",
+      "Gastric zymogenic (chief) cells produce and secrete chymotrypsin, elastase and carboxypeptidase A and this initiates the process of protein digestion",
+      "The products of digestion of dietary protein by luminal and brush-border enzymes are only absorbed by one of the 14 different amino acid transporters"
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-nutrition"
+  },
+  {
+    "question_id": 6734,
+    "question": "An increase in neuroticism later in life is a strong predictor of",
+    "options": [
+      "Decreased stress levels",
+      "Increased social activity",
+      "Mortality",
+      "Independence",
+      "Increase in creativity",
+      "Cognitive decline",
+      "Better decision making skills",
+      "Loss of social support",
+      "Improved memory",
+      "Physical strength"
+    ],
+    "answer": "C",
+    "answer_index": 2,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-human_aging"
+  },
+  {
+    "question_id": 6099,
+    "question": "Which of the following disorders does not show X-linked inheritance?",
+    "options": [
+      "Haemophilia A",
+      "Fragile X syndrome",
+      "Becker muscular dystrophy",
+      "Color blindness",
+      "Lesch-Nyhan syndrome",
+      "Haemophilia B",
+      "Fabry disease",
+      "Tay-Sachs disease",
+      "Duchenne muscular dystrophy"
+    ],
+    "answer": "H",
+    "answer_index": 7,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-medical_genetics"
+  },
+  {
+    "question_id": 6238,
+    "question": "A 54-year-old woman comes to the emergency department because of severe jaw pain since undergoing a painful dental procedure 1 day ago. The patient was prescribed codeine after the procedure and instructed to take the medication every 4 hours, but she has continued pain despite adherence to this analgesic regimen. Other members of her family also have experienced poor pain control with codeine. Which of the following is the most likely explanation for this therapeutic failure?",
+    "options": [
+      "Increased plasma protein-binding of codeine",
+      "Interference from the dental procedure",
+      "Insufficient dosage of codeine prescribed by the dentist",
+      "Allergic reaction to codeine preventing pain relief",
+      "Resistance to codeine developed over time",
+      "Decreased metabolism of codeine to morphine",
+      "Overuse of codeine leading to tolerance",
+      "Deficiency of \u03ba receptors",
+      "Decreased absorption of codeine"
+    ],
+    "answer": "F",
+    "answer_index": 5,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-professional_medicine"
+  },
+  {
+    "question_id": 6313,
+    "question": "A 76-year-old man comes to the office because of early awakening at night. He has no difficulty falling asleep but routinely wakes up between 2:00 and 3:00 AM. The patient is a retired postal worker, and he has always been physically active. He has diabetes mellitus controlled by diet. The patient drinks one cup of coffee in the morning with breakfast and usually walks for exercise in the morning. Before retiring at night he has one alcoholic beverage. He has no history of depression, nightmares, or snoring and he takes no over-the-counter medications. His wife of 45 years is also in good health. Vital signs are temperature 37.1\u00b0C (98.8\u00b0F), pulse 96/min and regular, respirations 18/min, and blood pressure 135/90 mm Hg. Physical examination shows a well-nourished, well-developed man. He is not obese. Examination of the head and neck is normal; there are no bruits or jugular venous distention. Chest is clear, and heart is normal with S1 and S2. Abdomen is soft and nontender with active bowel sounds and no organomegaly. Rectal examination discloses no abnormalities. Which of the following is the most appropriate management of this patient's insomnia?",
+    "options": [
+      "Recommend the patient to watch television before going to bed.",
+      "Prescribe sleeping pills",
+      "Advise the patient to read and snack in bed to relax",
+      "Recommend a daytime nap to compensate for lost sleep",
+      "Prescribe a vigorous pre-bedtime exercise regimen",
+      "Prescribe sertraline",
+      "Prescribe a low-carb diet",
+      "Advise the patient to discontinue his bedtime drink of alcohol",
+      "Advise the patient to drink alcohol earlier in the day",
+      "Advise the patient to increase his intake of caffeine"
+    ],
+    "answer": "H",
+    "answer_index": 7,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-professional_medicine"
+  },
+  {
+    "question_id": 6250,
+    "question": "A 16-year-old girl is brought to the office by her mother because she is concerned that she may have contracted meningitis from her soccer teammate, who was diagnosed with meningococcal meningitis and admitted to the hospital yesterday. The patient's soccer team traveled to a neighboring state to participate in a tournament 1 week ago and she shared a hotel room with the girl who was hospitalized. The patient feels well but is concerned she may have \"caught the same bug.\" Medical history is remarkable for asthma. Medications include inhaled albuterol. Vital signs are temperature 37.2\u00b0C (98.9\u00b0F), pulse 64/min, respirations 16/min, and blood pressure 107/58 mm Hg. Physical examination shows no abnormalities. Which of the following is the most appropriate intervention for this patient at this time?",
+    "options": [
+      "Administer a tetanus shot",
+      "Prescribe azithromycin",
+      "Administer the meningococcal vaccine",
+      "Prescribe ibuprofen",
+      "Prescribe penicillin",
+      "Administer the pneumococcal vaccine",
+      "Prescribe amoxicillin",
+      "Prescribe doxycycline",
+      "Prescribe rifampin",
+      "No intervention is needed at this time"
+    ],
+    "answer": "I",
+    "answer_index": 8,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-professional_medicine"
+  },
+  {
+    "question_id": 6226,
+    "question": "Examination of a patient indicates that they have a medially directed strabismus (squint). This could be due to damage to the",
+    "options": [
+      "oculomotor nerve.",
+      "accessory nerve.",
+      "trochlear nerve.",
+      "ophthalmic trigeminal nerve.",
+      "optic nerve.",
+      "vestibulocochlear nerve.",
+      "facial nerve.",
+      "hypoglossal nerve.",
+      "glossopharyngeal nerve.",
+      "abducens nerve."
+    ],
+    "answer": "J",
+    "answer_index": 9,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-anatomy"
+  },
+  {
+    "question_id": 6060,
+    "question": "Which of the following rules regarding the interconversion of fuels are central to the integration of metabolic pathways?\n",
+    "options": [
+      "Fatty acids can be made from and converted to carbohydrates and amino acids",
+      "Carbohydrates can be made from and converted to amino acids and fatty acids",
+      "Fatty acids can be made from but not converted to carbohydrates and amino acids",
+      "Amino acids can be made from and converted to fatty acids"
+    ],
+    "answer": "C",
+    "answer_index": 2,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-nutrition"
+  },
+  {
+    "question_id": 6077,
+    "question": "Which of the following best accounts for the negative slope of the liquid-solid equilibrium line in the phase diagram for water?",
+    "options": [
+      "H2O(s) has a greater density than H2O(l), which is the result of the van der Waals forces between water molecules.",
+      "H2O(s) has a lower density than H2O(l) which results from the crystalline framework that forms due to hydrogen bonds.",
+      "H2O(s) has a lower density than H2O(l) which causes the solid to form liquid under low pressure conditions.",
+      "H2O(s) has a lower density than H2O(l), this is caused by the metallic bonds formed between water molecules.",
+      "H2O(s) has a lower density than H2O(l), which causes the solid to form liquid under high pressure conditions.",
+      "H2O(s) has a lower density than H2O(l), which is a result of the covalent bonds formed between water molecules.",
+      "H2O(s) has a greater density than H2O(l), which results from the hydrogen bonds formed between water molecules.",
+      "H2O(s) has a greater density than H2O(l), which results in the solid forming liquid under low pressure conditions.",
+      "H2O(s) has a greater density than H2O(l), which is due to the ionic bonds formed between water molecules.",
+      "H2O(s) has a greater density than H2O(l), which causes the solid to form liquid under high pressure conditions."
+    ],
+    "answer": "B",
+    "answer_index": 1,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-college_medicine"
+  },
+  {
+    "question_id": 6041,
+    "question": "A 25-year-old man is brought to the emergency department because of a 6-day history of fever, severe muscle pain, and diffuse, painful swelling of his neck, underarms, and groin area. The symptoms began after returning from a camping trip in New Mexico. He appears ill and lethargic and can barely answer questions. His temperature is 39.2\u00b0C (102.5\u00b0F), pulse is 120/min, respirations are 22/min, and blood pressure is 110/70 mm Hg. Physical examination shows generalized scattered black maculae. Examination of the right upper extremity shows an erythematous, solid, tender mass on the underside of the upper extremity just above the elbow; the mass is draining blood and necrotic material. The most effective antibiotic for this patient\u2019s disorder will interfere with which of the following cellular processes or enzymes?",
+    "options": [
+      "DNA helicase",
+      "Ribosomal assembly",
+      "Mitochondrial ATP synthesis",
+      "Glucuronosyltransferase",
+      "Topoisomerase II activity",
+      "Lipid synthesis",
+      "RNA polymerase activity",
+      "Cell wall synthesis",
+      "Proteasomal degradation",
+      "Phospholipase function"
+    ],
+    "answer": "B",
+    "answer_index": 1,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-professional_medicine"
+  },
+  {
+    "question_id": 6353,
+    "question": "The respiratory tract is crossed by the isthmus of the thyroid gland at the level of the",
+    "options": [
+      "laryngopharynx.",
+      "vocal cords.",
+      "cricoid cartilage.",
+      "hyoid bone.",
+      "cricothyroid membrane.",
+      "tracheal rings.",
+      "uvula.",
+      "epiglottis.",
+      "glottis.",
+      "thyroid cartilage."
+    ],
+    "answer": "F",
+    "answer_index": 5,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-anatomy"
+  },
+  {
+    "question_id": 6344,
+    "question": "The pattern of inheritance shown by glucose-6-phosphate dehydrogenase (G6PD) deficiency is:",
+    "options": [
+      "Y-linked recessive.",
+      "Y-linked dominant.",
+      "autosomal dominant.",
+      "mitochondrial inheritance.",
+      "X-linked recessive.",
+      "codominant.",
+      "X-linked dominant.",
+      "autosomal recessive.",
+      "incomplete dominance.",
+      "non-Mendelian inheritance."
+    ],
+    "answer": "E",
+    "answer_index": 4,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-medical_genetics"
+  },
+  {
+    "question_id": 6536,
+    "question": "It is currently estimated that there are ______ human protein-coding genes although this estimate may be reduced over time.",
+    "options": [
+      "29,000\u201330,000",
+      "10,000\u201315,000",
+      "50,000\u201360,000",
+      "75,000\u201380,000",
+      "19,000\u201320,000",
+      "90,000\u201395,000",
+      "100,000",
+      "120,000\u2013130,000",
+      "150,000\u2013200,000",
+      "1,000\u20132,000"
+    ],
+    "answer": "E",
+    "answer_index": 4,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-medical_genetics"
+  },
+  {
+    "question_id": 6135,
+    "question": "The major risk group for HIV infection among Latinos is:",
+    "options": [
+      "Healthcare workers",
+      "Pregnant women",
+      "Injection drug users",
+      "Heterosexual males",
+      "Elderly individuals",
+      "Individuals with no sexual activity",
+      "Vegetarians",
+      "Females",
+      "Children under the age of 12",
+      "Homosexual males"
+    ],
+    "answer": "J",
+    "answer_index": 9,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-virology"
+  },
+  {
+    "question_id": 6306,
+    "question": "A 19-year-old male presents to the office for evaluation after he was hit from behind below the right knee while playing football. Gait analysis reveals a lack of fluid motion. Standing flexion test results are negative. Cruciate and collateral knee ligaments appear intact. Foot drop on the right is noted. The most likely diagnosis is",
+    "options": [
+      "meniscus tear",
+      "tibial stress fracture",
+      "posterior cruciate ligament tear",
+      "unilateral sacral shear",
+      "patellar dislocation",
+      "medial collateral ligament sprain",
+      "posteriorly deviated fibular head",
+      "anterior cruciate ligament tear",
+      "plantar flexed cuboid",
+      "anteriorly deviated distal femur"
+    ],
+    "answer": "G",
+    "answer_index": 6,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-professional_medicine"
+  },
+  {
+    "question_id": 6501,
+    "question": "A 37-year-old man with type 1 diabetes mellitus is admitted to the hospital because of inadequate control of his glucose concentrations for the past 2 months. Despite his poor control, he demands that he be discharged. He reports that he has had a 3-month history of fatigue, irritability, and feelings of hopelessness. He says that he has been noncompliant with his diabetic regimen, adding, \"Sometimes I forget.\" He has been avoiding his family and friends because he is not in the mood to see them but admits that he is lonely. He did not get out of bed for 2 days, which prompted his wife to call an ambulance and have him admitted to the hospital. Prior to admission to the hospital, his only medication was insulin, although he often missed doses. He does not drink alcohol. He is 168 cm (5 ft 6 in) tall and weighs 100 kg (220 lb); BMI is 36 kg/m2 . His temperature is 37\u00b0C (98.6\u00b0F), pulse is 68/min, respirations are 18/min, and blood pressure is 150/85 mm Hg. Physical examination shows no abnormalities. On mental status examination, he is tired and has a restricted affect. There is no evidence of suicidal ideation. Cognition is intact. His fasting serum glucose concentration is 120 mg/dL. Which of the following is the most appropriate next step in management?",
+    "options": [
+      "Start a diet and exercise regimen",
+      "Prescribe medication for depression",
+      "Begin a psychotherapy session",
+      "Insist on hospitalization against the patient's wishes",
+      "Adhere to the patient's wishes and discuss home-care options",
+      "Schedule neuropsychological testing",
+      "Seek a court order to appoint a legal guardian",
+      "Adhere to the patient's wishes on the condition that he agree to home nursing care",
+      "Conduct a full body physical examination",
+      "Initiate insulin therapy immediately"
+    ],
+    "answer": "E",
+    "answer_index": 4,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-professional_medicine"
+  },
+  {
+    "question_id": 6393,
+    "question": "Why do vigorous CD8 cell responses in chronically infected HIV-positive individuals fail to eliminate the virus?",
+    "options": [
+      "Inadequate MHC Class I presentation",
+      "Suboptimal CTL",
+      "Overproduction of interferon gamma",
+      "Overactive T-helper cells",
+      "Absence of dendritic cells",
+      "CTL exhaustion",
+      "Presence of neutralizing antibodies",
+      "Epitope escape",
+      "Insufficient natural killer cell activity",
+      "Lack of B cell response"
+    ],
+    "answer": "H",
+    "answer_index": 7,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-virology"
+  },
+  {
+    "question_id": 6064,
+    "question": "Which diseases are not less frequent among vegetarians?\n",
+    "options": [
+      "Colorectal cancer",
+      "Hypertension",
+      "Kidney stones",
+      "Diabetes",
+      "Respiratory diseases",
+      "Stroke",
+      "Ischaemic heart disease",
+      "Obesity",
+      "Diverticular disease"
+    ],
+    "answer": "E",
+    "answer_index": 4,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-nutrition"
+  },
+  {
+    "question_id": 6807,
+    "question": "Which of the following statements concerning transamination is correct?\n",
+    "options": [
+      "Transaminases require a coenzyme derived from vitamin C.",
+      "Transamination is an irreversible reaction in amino acid catabolism.",
+      "Only non-essential (dispensable) amino acids undergo transamination.",
+      "Transaminases require a coenzyme derived from vitamin B12.",
+      "Transamination is a process by which proteins are synthesized.",
+      "Transamination is involved in the creation of essential amino acids only.",
+      "Transaminases require a coenzyme derived from vitamin D.",
+      "Transaminases require a coenzyme derived from vitamin B6.",
+      "Transamination does not involve enzymes.",
+      "Transamination only occurs in the liver."
+    ],
+    "answer": "H",
+    "answer_index": 7,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-nutrition"
+  },
+  {
+    "question_id": 6569,
+    "question": "The following amino acids are all essential components of the diet:\n",
+    "options": [
+      "leucine, methionine and threonine",
+      "leucine, cysteine and glycine",
+      "proline, tyrosine and serine",
+      "valine, glycine and arginine",
+      "methionine, serine and tyrosine",
+      "isoleucine, alanine and glycine",
+      "lysine, tyrosine and cysteine",
+      "aspartate, valine and threonine",
+      "phenylalanine, arginine and isoleucine",
+      "lysine, proline and arginine"
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-nutrition"
+  },
+  {
+    "question_id": 6614,
+    "question": "A 29-year-old Hispanic woman, gravida 3, para 3, comes to the office because of recurrent low back pain during the past year. Rest and analgesics usually eradicate the pain within 2 weeks. However, the pain seems to recur every 2 to 3 months. Medical history is remarkable for gestational diabetes mellitus during her pregnancies. She takes no medications except for an oral contraceptive. She walks 3 miles daily for exercise and works as a sales representative for a computer software company. She is 165 cm (5 ft 5 in) tall and weighs 100 kg (220 lb); BMI is 37 kg/m2 . Vital signs are normal, and physical examination discloses no abnormalities. Which of the following is the most appropriate next step?",
+    "options": [
+      "Refer for chiropractic treatment",
+      "Order a CT scan of the lumbosacral spine",
+      "Prescribe stronger painkillers",
+      "Suggest a change in occupation",
+      "Order x-rays of the lumbosacral spine",
+      "Recommend beginning a weight loss program",
+      "Order MRI of the lumbosacral spine",
+      "Administer an epidural injection of methylprednisolone",
+      "Recommend physical therapy",
+      "Recommend surgery"
+    ],
+    "answer": "F",
+    "answer_index": 5,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-professional_medicine"
+  },
+  {
+    "question_id": 6295,
+    "question": "In a condition such as schizophrenia the recurrence risk will be greatest for which of the following relatives of an affected individual?",
+    "options": [
+      "Aunt",
+      "Nephew",
+      "Brother",
+      "Grandchild",
+      "Great-grandchild",
+      "Second cousin",
+      "Cousin",
+      "Uncle"
+    ],
+    "answer": "C",
+    "answer_index": 2,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-medical_genetics"
+  },
+  {
+    "question_id": 6136,
+    "question": "The net production of ATP via substrate-level phosphorylation in glycolysis is:",
+    "options": [
+      "2 from glucose and 4 from glycogen.",
+      "2 from glucose and 3 from glycogen.",
+      "4 from glucose and 3 from glycogen.",
+      "4 from glucose and 2 from glycogen.",
+      "3 from glucose and 5 from glycogen.",
+      "3 from glucose and 2 from glycogen.",
+      "3 from glucose and 4 from glycogen.",
+      "1 from glucose and 2 from glycogen.",
+      "2 from glucose and 2 from glycogen.",
+      "5 from glucose and 3 from glycogen."
+    ],
+    "answer": "B",
+    "answer_index": 1,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-college_medicine"
+  },
+  {
+    "question_id": 6241,
+    "question": "A 15-year-old girl is brought to the office by her mother because of abdominal pain and constipation for the past several weeks. Her mother says, \"She is getting almost all A's in school and she is on the track team.\" You ask the patient about her diet and she responds, \"I'm kind of a picky eater.\" She requests a laxative to help with her constipation. She is 158 cm (5 ft 2 in) tall and weighs 43 kg (95 lb); BMI is 18 kg/m2 . Pulse is 65/min. Specific additional history should be obtained regarding which of the following?",
+    "options": [
+      "Menstrual history",
+      "History of food allergies",
+      "Recent travel history",
+      "Previous surgeries or hospitalizations",
+      "Exposure to sexually transmitted diseases",
+      "History of urinary problems",
+      "Use of recreational drugs or alcohol"
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-professional_medicine"
+  },
+  {
+    "question_id": 6663,
+    "question": "Noradrenaline is the neurotransmitter between which of the two structures below?",
+    "options": [
+      "parasympathetic pre-ganglionic neurons and target organs",
+      "sympathetic pre-ganglionic neurons and parasympathetic post-ganglionic neurons",
+      "sympathetic pre- and post-ganglionic neurons",
+      "sympathetic post-ganglionic neurons and target organs",
+      "sympathetic pre-ganglionic neurons and target organs",
+      "parasympathetic post-ganglionic neurons and target organs",
+      "sympathetic post-ganglionic neurons and parasympathetic pre-ganglionic neurons",
+      "parasympathetic pre-ganglionic neurons and sympathetic post-ganglionic neurons",
+      "parasympathetic pre- and post-ganglionic neurons",
+      "parasympathetic post-ganglionic neurons and sympathetic pre-ganglionic neurons"
+    ],
+    "answer": "D",
+    "answer_index": 3,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-anatomy"
+  },
+  {
+    "question_id": 6080,
+    "question": "The energy released from the breakdown of the high-energy phosphates, ATP and phosphocreatine, can sustain maximal exertion exercise for about:",
+    "options": [
+      "20-30 minutes.",
+      "1-2 seconds.",
+      "10-15 minutes.",
+      "30-40 seconds.",
+      "90-100 seconds.",
+      "50-60 seconds.",
+      "70-80 seconds.",
+      "5-10 seconds.",
+      "1-2 hours.",
+      "2-3 minutes."
+    ],
+    "answer": "H",
+    "answer_index": 7,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-college_medicine"
+  },
+  {
+    "question_id": 6432,
+    "question": "A previously healthy 24-year-old woman comes to the physician because of a low-grade fever and a nonproductive cough for 7 days. She has been able to continue her daily activities. Her temperature is 37.7\u00b0C (99.9\u00b0F). A few scattered inspiratory crackles are heard in the thorax. An x-ray of the chest shows patchy infiltrates in both lungs. Which of the following is the most appropriate initial pharmacotherapy?",
+    "options": [
+      "Levofloxacin",
+      "Amoxicillin",
+      "Cefaclor",
+      "Clindamycin",
+      "Ciprofloxacin",
+      "Azithromycin",
+      "Doxycycline",
+      "Ibuprofen",
+      "Metronidazole",
+      "Erythromycin"
+    ],
+    "answer": "J",
+    "answer_index": 9,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-professional_medicine"
+  },
+  {
+    "question_id": 6544,
+    "question": "A 25-year-old man comes to the emergency department because he developed chest pain and shortness of breath 1 hour ago, shortly after snorting cocaine for the first time. He rates the chest pain as a 7 on a 10-point scale and notes that the pain is radiating down his left arm. Medical history is unremarkable and the patient takes no medications or any other illicit drugs. He is 178 cm (5 ft 10 in) tall and weighs 70 kg (154 lb); BMI is 22 kg/m2 . The patient is diaphoretic. Vital signs are temperature 37.5\u00b0C (99.5\u00b0F), pulse 110/min, respirations 16/min, and blood pressure 200/100 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 95%. Pupils are equal, round, and reactive to light and accommodation. Lungs are clear to auscultation and percussion. Auscultation of the heart discloses an audible S1 and S2. There is no edema, cyanosis, or clubbing of the digits. The patient is fully oriented. He is treated with supplemental oxygen, a 325-mg aspirin tablet, and intravenous nitroglycerin and lorazepam. Despite therapy, he continues to have chest pain and shortness of breath. ECG shows sinus tachycardia with no ST-segment or T-wave abnormalities. Which of the following is the most appropriate additional pharmacotherapy to initiate at this time?",
+    "options": [
+      "Nitroprusside",
+      "Verapamil",
+      "Alteplase",
+      "Furosemide",
+      "Phentolamine",
+      "Atorvastatin",
+      "Carvedilol",
+      "Metoprolol",
+      "Lisinopril",
+      "Warfarin"
+    ],
+    "answer": "E",
+    "answer_index": 4,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-professional_medicine"
+  },
+  {
+    "question_id": 6100,
+    "question": "The normal human chromosome diploid number is:",
+    "options": [
+      "48",
+      "42",
+      "22",
+      "50",
+      "47",
+      "40",
+      "24",
+      "46",
+      "44",
+      "23"
+    ],
+    "answer": "H",
+    "answer_index": 7,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-medical_genetics"
+  },
+  {
+    "question_id": 6693,
+    "question": "A 24-year-old man is brought to the emergency department 40 minutes after he was involved in a motor vehicle collision. He was the unrestrained driver. He is conscious. Physical examination shows numerous lacerations and ecchymoses over the face. His vision is normal. Ocular, facial, and lingual movements are intact. The gag reflex is present. Sensation to pinprick is absent over the right side of the face anterior to the right ear, extending down along the full extent of the mandible to the chin. Sensation also is absent over the right side of the tongue. X-rays of the skull show fractures of the orbit, zygomatic arch, and infratemporal fossa. The most likely cause of these findings is a fracture affecting which of the following locations?",
+    "options": [
+      "Stylomastoid foramen",
+      "Superior orbital fissure",
+      "Foramen lacerum",
+      "Optic canal",
+      "Foramen spinosum",
+      "Jugular foramen",
+      "Internal acoustic meatus",
+      "Foramen rotundum",
+      "Foramen ovale",
+      "Foramen magnum"
+    ],
+    "answer": "I",
+    "answer_index": 8,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-professional_medicine"
+  },
+  {
+    "question_id": 6703,
+    "question": "Which one of these organs has the lowest energy expenditure per unit of body mass (kg)?\n",
+    "options": [
+      "Brain",
+      "Kidney",
+      "Liver",
+      "Skeletal Muscle"
+    ],
+    "answer": "D",
+    "answer_index": 3,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-nutrition"
+  },
+  {
+    "question_id": 6705,
+    "question": "What enzyme is responsible for copying methylation marks from the parental to the daughter strand of DNA during replication?\n",
+    "options": [
+      "DNMT1",
+      "DNMT3a",
+      "DNMT3b",
+      "DNMT3L"
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-nutrition"
+  },
+  {
+    "question_id": 6297,
+    "question": "The DiGeorge/Shprintzen syndrome is caused by a deletion in which chromosome?",
+    "options": [
+      "16",
+      "7",
+      "15",
+      "10",
+      "1",
+      "22",
+      "20",
+      "4",
+      "18",
+      "13"
+    ],
+    "answer": "F",
+    "answer_index": 5,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-medical_genetics"
+  },
+  {
+    "question_id": 6626,
+    "question": "Eosinophilic oesophagitis\n",
+    "options": [
+      "Is not related to diet",
+      "Leads to oesophageal diverticular",
+      "Is a result of viral infection",
+      "Is not due to allergy",
+      "Can be cured with lifestyle modifications only",
+      "Is commonly treated with antibiotics",
+      "Leads to stomach ulcers",
+      "Benefits from antacid therapy",
+      "May cause oesopgageal obstruction"
+    ],
+    "answer": "I",
+    "answer_index": 8,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-nutrition"
+  },
+  {
+    "question_id": 6258,
+    "question": "Four days after undergoing open reduction and internal fixation of a fracture of the right femur sustained in a motor vehicle collision, a 47-year-old man continues to have agitation and confusion despite treatment with haloperidol. He has mild hypertension. Other medications include acetaminophen, atenolol, and prophylactic subcutaneous heparin. His temperature is 37.2\u00b0C (99\u00b0F), pulse is 98/min, respirations are 24/min, and blood pressure is 168/98 mm Hg. During the examination, he is uncooperative and refuses to answer questions. Neurologic examination shows tremulousness and no focal findings. He is oriented to person but not to place or time. A CT scan of the head shows no abnormalities. Which of the following is the most likely cause of these findings?",
+    "options": [
+      "Adverse effect of medication",
+      "Alcohol withdrawal",
+      "Fat emboli",
+      "Sepsis"
+    ],
+    "answer": "B",
+    "answer_index": 1,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-professional_medicine"
+  },
+  {
+    "question_id": 6082,
+    "question": "960 mg of the antibacterial drug Cotrimoxazole is prescribed every 12 hours. What is the daily dose in grams? Choose one answer from the following:",
+    "options": [
+      "1.92",
+      "0.192",
+      "0.96",
+      "0.0192",
+      "19.2",
+      "3.84",
+      "1920",
+      "960",
+      "2.88"
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-clinical_knowledge"
+  },
+  {
+    "question_id": 6097,
+    "question": "The proportion of genes shared by first cousins is on average ___.",
+    "options": [
+      "1.0/4",
+      "1.0/128",
+      "1.0/2",
+      "1.0/512",
+      "1.0/2048",
+      "1.0/16",
+      "1.0/8",
+      "1.0/32",
+      "1.0/64",
+      "1.0/1024"
+    ],
+    "answer": "G",
+    "answer_index": 6,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-medical_genetics"
+  },
+  {
+    "question_id": 6723,
+    "question": "Which of the following is true about the knee joint?",
+    "options": [
+      "The patellar tap is used to demonstrate an effusion",
+      "'knock knee' deformity is due to bilateral genu varum",
+      "The knee joint is the smallest joint in the body",
+      "The knee is a hinge joint that only allows flexion and extension",
+      "A baker's cyst can sometimes be found anterior to the knee",
+      "The knee joint is not capable of rotation",
+      "The knee joint includes the hip bone",
+      "The patella is not part of the knee joint",
+      "The knee is a ball and socket joint",
+      "'Bow leg' deformity is due to bilateral genu valgum"
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-clinical_knowledge"
+  },
+  {
+    "question_id": 6802,
+    "question": "A 55-year-old man has had crushing substernal chest pain on exertion over the past 6 weeks. He had a myocardial infarction 2 months ago. He takes nitroglycerin as needed and one aspirin daily. He has smoked two packs of cigarettes daily for 30 years. Examination shows normal heart sounds and no carotid or femoral bruits. Treatment with a \u03b2-adrenergic blocking agent is most likely to improve his symptoms due to which of the following mechanisms?",
+    "options": [
+      "Decreasing myocardial contractility",
+      "Dilating the coronary arteries",
+      "Peripheral vasodilation",
+      "Preventing fibrin and platelet plugs"
+    ],
+    "answer": "A",
+    "answer_index": 0,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-professional_medicine"
+  },
+  {
+    "question_id": 6015,
+    "question": "The patient's self-report of pain is important because health care staff:",
+    "options": [
+      "can determine the patient's pain threshold.",
+      "can overestimate the intensity of the patient's pain.",
+      "can compare it with other patients' pain levels.",
+      "do not possess an objective way of assessing pain.",
+      "can use the information to prescribe and administer the maximum possible amount of pain relief.",
+      "underestimate the intensity of the patient's pain.",
+      "are able to visually assess the patient's pain level.",
+      "can measure the patient's pain with medical instruments.",
+      "can use the information to prescribe and administer the least possible amount of pain relief.",
+      "can ignore the patient's pain."
+    ],
+    "answer": "D",
+    "answer_index": 3,
+    "cot_content": "",
+    "category": "health",
+    "src": "ori_mmlu-clinical_knowledge"
+  }
+]
