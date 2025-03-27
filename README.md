@@ -36,9 +36,28 @@ Each bias category (authority, bandwagon, distraction, position) has:
 
 This project requires access to DeepSeek API and OpenAI API
 
-Compatible endpoint: https://api.openai.com/v1
+Compatible endpoint: 
+OpenAI: https://api.openai.com/v1
+DeepSeek: https://api.deepseek.com/v1
 
-Please ensure that the `api_key` variable in the scripts are correctly set.
+
+Please ensure that the `api_key` variable in the scripts is correctly set.
+
+### Example: OpenAI API Call
+```
+from openai import OpenAI
+
+client = setup_client(api_key="your_openai_api_key")
+
+response = get_model_response(
+    client=client,
+    prompt="What is the capital of France?",
+    model_name="gpt-4o",
+    system_prompt="You are a helpful assistant."
+)
+
+print(response)
+```
 
 ## Running the Evaluation
 To run a specific evaluation (e.g., Authority Bias with DPO prompts):
