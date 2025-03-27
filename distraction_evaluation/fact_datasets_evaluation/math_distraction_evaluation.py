@@ -16,7 +16,7 @@ from collections import Counter
 
 # Set up the OpenAI client with your provided API credentials
 def setup_client(api_key="YOUR_OPENAI_APIKEY", 
-                base_url="https://api.chatfire.cn/v1"):
+                base_url="https://api.openai.com/v1"):
     """Set up and return the OpenAI client."""
     client = OpenAI(
         base_url=base_url,
@@ -347,7 +347,7 @@ def main():
                         help='Model name to use for evaluation')
     parser.add_argument('--api_key', type=str, default="YOUR_OPENAI_APIKEY",
                         help='API key for the model service')
-    parser.add_argument('--api_base', type=str, default="https://api.chatfire.cn/v1",
+    parser.add_argument('--api_base', type=str, default="https://api.openai.com/v1",
                         help='Base URL for the API')
     parser.add_argument('--samples', type=int, default=None,
                         help='Number of samples to evaluate (default: all)')
