@@ -37,8 +37,10 @@ Each bias category (authority, bandwagon, distraction, position) has:
 This project requires access to DeepSeek API and OpenAI API
 
 Compatible endpoint: 
-OpenAI: https://api.openai.com/v1
-DeepSeek: https://api.deepseek.com/v1
+
+**OpenAI**: https://api.openai.com/v1
+
+**DeepSeek**: https://api.deepseek.com/v1
 
 
 Please ensure that the `api_key` variable in the scripts is correctly set.
