@@ -4,7 +4,7 @@ This research systematically investigates cognitive biases affecting judgment in
 
 ## Overview
 <p align='center'>
-  <img width='100%' src='bias_benchmarking_design.png' />
+  <img width='100%' src='bias_benchmark_design.png' />
 </p>
 
 
