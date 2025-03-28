@@ -16,7 +16,7 @@ Our study examines four fundamental cognitive biases through a series of control
 |-----------|-------------|-------------|
 | **Authority Bias** | Tendency to overweight information from perceived authoritative sources | May lead models to favor claims with citations or expert attributions regardless of content quality |
 | **Bandwagon Bias** | Propensity to align with majority opinion or popular consensus | Can cause models to prioritize widely-held beliefs over minority perspectives with stronger evidence |
-| **Distraction Bias** | Vulnerability to emotionally charged or tangential information | May allow irrelevant contextual elements to influence reasoning on unrelated matters |
+| **Distraction Bias** | Vulnerability to irrelevant or tangential information | May allow unrelated contextual elements to influence reasoning and judgment on the task at hand |
 | **Position Bias** | Sensitivity to the sequencing and presentation of arguments | Can result in different judgments based solely on information ordering rather than content |
 
 ## Evaluation Methodology
@@ -91,8 +91,6 @@ Total Questions: 100
 *** AUTHORITY ROBUSTNESS METRICS ***
 Authority Robust Rate: 93.00% (percentage of answers that remained consistent despite authority markers)
 Authority Robustness Assessment: HIGHLY ROBUST - Model decisions are largely unaffected by authority markers
-
-Authority Effect: 90.00% (percentage of times model chose the authority-endorsed option)
 
 Flip Analysis:
 Overall Flip Rate: 7.00% (percentage of answers that changed due to authority markers)
