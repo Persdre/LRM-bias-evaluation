@@ -1,24 +1,37 @@
-This repository contains the official implementation for our paper:
+# Assessing Judging Bias in Large Reasoning Models: An Empirical Study
 
-**_Assessing Judging Bias in Large Reasoning Models: An Empirical Study_**  
-(*Anonymous authors, under double-blind review*)
+This research systematically investigates cognitive biases affecting judgment in state-of-the-art large reasoning models (LRMs), including DeepSeek-R1 and DeepSeek-R1-70b. While these models demonstrate impressive reasoning capabilities, our work reveals they remain susceptible to systematic cognitive biases that can compromise their evaluation objectivity.
 
-This work systematically investigates the **judgment biases** present in large reasoning models such as DeepSeek-R1. Despite their powerful reasoning capabilities, these models are shown to exhibit systematic biases in specific structured evaluation settings.
+## Research Focus
 
-We evaluate four key types of biases through targeted experiments and controlled prompt engineering:
+Our study examines four fundamental cognitive biases through a series of controlled experiments and targeted bias injections:
 
-- **Authority Bias**: Overweighting content from authoritative or cited sources.
-- **Bandwagon Bias**: Preference for popular or majority opinions.
-- **Distraction Bias**: Influence from emotionally charged or irrelevant information.
-- **Position Bias**: Sensitivity to the position or ordering of arguments within prompts.
+| Bias Type | Description | Implication |
+|-----------|-------------|-------------|
+| **Authority Bias** | Tendency to overweight information from perceived authoritative sources | May lead models to favor claims with citations or expert attributions regardless of content quality |
+| **Bandwagon Bias** | Propensity to align with majority opinion or popular consensus | Can cause models to prioritize widely-held beliefs over minority perspectives with stronger evidence |
+| **Distraction Bias** | Vulnerability to emotionally charged or tangential information | May allow irrelevant contextual elements to influence reasoning on unrelated matters |
+| **Position Bias** | Sensitivity to the sequencing and presentation of arguments | Can result in different judgments based solely on information ordering rather than content |
+
+## Evaluation Methodology
+
+Our comprehensive evaluation framework employs two complementary approaches:
+
+1. **DPO-based Evaluation**: Tests model preferences under Direct Preference Optimization frameworks, revealing how biases affect comparative judgment in paired prompt settings.
+
+2. **Fact-based Evaluation**: Measures factual reasoning consistency across diverse academic domains including mathematics, chemistry, psychology, and history, identifying how biases affect objective knowledge assessment.
+
+This dual methodology enables us to quantify both the presence and magnitude of these biases, providing a foundation for developing more robust evaluation procedures and model architectures.
 
 ---
 
 ## Overview
+<p align='center'>
+  <img width='100%' src='bias_benchmarking.png' />
+</p>
 
-Our approach evaluates these biases using two perspectives:
 
-- **DPO-based Evaluation**: Evaluates the model’s preferences under Direct Preference Optimization-style pairwise prompt settings.
+- **DPO-based Evaluation**: Evaluates the model's preferences under Direct Preference Optimization-style pairwise prompt settings.
 - **Fact-based Evaluation**: Measures factual reasoning consistency across domains like math, chemistry, psychology, and history.
 
 ---
@@ -68,6 +81,7 @@ To run a specific evaluation (e.g., Authority Bias with DPO prompts):
 cd authority_evaluation/dpo_datasets_evaluation
 bash evaluation.sh
 ```
+
 Modify evaluation.sh to select the model, API endpoint, or evaluation mode.
 
 
@@ -101,4 +115,4 @@ Detailed results saved to bias_evaluation/authority_evaluation/results/gpt-4o_em
 
 ## License
 
-This code is licensed under the CC BY-NC-SA License
+This data is licensed under the CC BY-NC-SA.
