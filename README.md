@@ -16,7 +16,7 @@ Our study examines four fundamental cognitive biases through a series of control
 |-----------|-------------|-------------|
 | **Authority Bias** | Tendency to overweight information from perceived authoritative sources | May lead models to favor claims with citations or expert attributions regardless of content quality |
 | **Bandwagon Bias** | Propensity to align with majority opinion or popular consensus | Can cause models to prioritize widely-held beliefs over minority perspectives with stronger evidence |
-| **Distraction Bias** | Vulnerability to irrelevant or tangential information | May allow unrelated contextual elements to influence reasoning and judgment on the task at hand |
+| **Distraction Bias** | Vulnerability to irrelevant information | May allow unrelated contextual elements to influence reasoning and judgment on the task at hand |
 | **Position Bias** | Sensitivity to the sequencing and presentation of arguments | Can result in different judgments based solely on information ordering rather than content |
 
 ## Evaluation Methodology
