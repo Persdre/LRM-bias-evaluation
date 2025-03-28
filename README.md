@@ -33,8 +33,6 @@ This dual methodology enables us to quantify both the presence and magnitude of 
 - **DPO-based Evaluation**: Evaluates the model's preferences under Direct Preference Optimization-style pairwise prompt settings.
 - **Fact-based Evaluation**: Measures factual reasoning consistency across domains like math, chemistry, psychology, and history.
 
----
-
 ## Repository Structure
 
 
