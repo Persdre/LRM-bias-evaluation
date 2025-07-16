@@ -106,3 +106,15 @@ Detailed results saved to bias_evaluation/authority_evaluation/results/gpt-4o_em
 ## License
 
 This data is licensed under the CC BY-NC-SA.
+
+## Citation
+If you find this repository useful, please cite our paper:
+
+```
+@article{wang2025assessing,
+  title={Assessing Judging Bias in Large Reasoning Models: An Empirical Study},
+  author={Wang, Qian and Lou, Zhanzhi and Tang, Zhenheng and Chen, Nuo and Zhao, Xuandong and Zhang, Wenxuan and Song, Dawn and He, Bingsheng},
+  journal={arXiv preprint arXiv:2504.09946},
+  year={2025}
+}
+```
