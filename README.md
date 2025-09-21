@@ -33,13 +33,6 @@ This dual methodology enables us to quantify both the presence and magnitude of 
 - **DPO-based Evaluation**: Evaluates the model's preferences under Direct Preference Optimization-style pairwise prompt settings.
 - **Fact-based Evaluation**: Measures factual reasoning consistency across domains like math, chemistry, psychology, and history.
 
-## Repository Structure
-
-
-Each bias category (authority, bandwagon, distraction, position) has:
-- A `dpo_datasets_evaluation/` folder for model preference testing.
-- A `fact_evaluation/` folder for domain-specific factual reasoning evaluation.
-
 ## Requirements
 
 This project requires access to DeepSeek API and OpenAI API, you can refer to the official documentation for more details.
@@ -102,7 +95,3 @@ Accuracy Change: -1.00% (-1.00 percentage points)
 Detailed results saved to bias_evaluation/authority_evaluation/results/gpt-4o_emerton_dpo_samples_authority_bias_date_time.json
 
 ```
-
-## License
-
-This data is licensed under the CC BY-NC-SA.
